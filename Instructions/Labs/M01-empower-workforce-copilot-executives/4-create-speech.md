@@ -1,15 +1,15 @@
 
 # Erstellen einer Rede mit Copilot in Word
 ---
-Die Beherrschung von Copilot für Word kann für Führungskräfte, deren Aufgabe es ist, wirkungsvolle Reden zu verfassen, eine transformative Kompetenz darstellen. Im dynamischen Geschäftsumfeld von heute ist eine effektive Kommunikation eine zentrale Führungskompetenz. Copilot für Word fungiert als intelligenter Schreibassistent, der in Echtzeit Inhalte vorschlägt und Formulierungen optimiert. Dieses Tool beschleunigt nicht nur das Schreiben von Reden, sondern sorgt auch für eine klare, stimmige und wirksame Botschaft.
+Die Beherrschung von Copilot für Word kann für Führungskräfte, deren Aufgabe es ist, wirkungsvolle Reden zu verfassen, eine transformative Kompetenz darstellen. Im dynamischen Geschäftsumfeld von heute ist eine effektive Kommunikation ein zentrales Element der Führungskompetenz. Copilot für Word fungiert als intelligenter Schreibassistent, der in Echtzeit Inhalte vorschlägt und Formulierungen optimiert. Dieses Tool beschleunigt nicht nur das Schreiben von Reden, sondern sorgt auch für eine klare, stimmige und wirksame Botschaft.
 
-Führungskräfte, die es verstehen, Copilot für Word richtig zu nutzen, haben einen Wettbewerbsvorteil und verwandeln ihre Ideen mühelos in überzeugende Texte für die gewünschte Zielgruppe. Dieses Tool ermöglicht es Ihnen, kreativer und effizienter zu arbeiten und wirkungsvolle Reden zu halten. Copilot kann Ihnen dabei helfen, die Beziehung zu Projektbeteiligten zu stärken und als Führungskraft eine nachhaltige Wirkung zu erzielen.
+Führungskräfte, die es verstehen, Copilot für Word richtig zu nutzen, haben einen Wettbewerbsvorteil und verwandeln ihre Ideen mühelos in überzeugende Texte für die gewünschte Zielgruppe. Dieses Tool ermöglicht es Ihnen, kreativer und effizienter werden und wirkungsvolle Reden zu halten. Copilot kann Ihnen dabei helfen, die Verbindung mit Projektbeteiligten zu stärken und eine nachhaltige Wirkung als Führungskraft zu erzielen.
 
 ### Verknüpfen von Dateien in Copilot
 
 In dieser Übung bitten Sie Copilot in Word, auf Basis der in einem Word-Dokument gespeicherten Gewinn- und Verlustrechnung Ihres Unternehmens eine Rede für Sie zu schreiben. Wie aus früheren Schulungen bekannt, muss sich eine Datei wie diese zwingend in einem OneDrive-Konto befinden, wenn Sie sie mit einem Copilot-Prompt verknüpfen möchten. Eine Verknüpfung mit einer lokal gespeicherten Datei auf Ihrem PC ist nicht möglich.
 
-Sie können die Datei mithilfe einer der folgenden Methoden mit dem Copilot-Prompt verknüpfen:
+Sie können die Datei mit einer der folgenden Methoden mit dem Copilot-Prompt verknüpfen:
 
  -  Wählen Sie die Datei aus der Liste der zuletzt verwendeten Dateien aus.
  -  Öffnen Sie die Datei, kopieren Sie ihren Pfad mithilfe der Option **Freigeben**, und fügen Sie ihn dann nach dem Schrägstrich (/) in den Prompt ein.
@@ -45,6 +45,5 @@ Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Copilot in Wor
 14. Ändern Sie interessehalber den Schreibstil in **Informell**. Beachten Sie, ob sich die **Editor-Bewertung** ändert. Falls für Kategorien eine Zahl angezeigt wird, überprüfen Sie die jeweilige Kategorie, um zu sehen, was durch den Editor gekennzeichnet wurde. Sie möchten den professionellen Schreibstil beibehalten. Wählen Sie daher für alle vorgeschlagenen Änderungen **Ignorieren** aus. Überprüfen Sie alle vorgeschlagenen Änderungen, um die gekennzeichneten Unterschiede zwischen dem professionellen und dem informellen Schreibstil anzuzeigen.
 15. Speichern Sie die Datei mit dem folgenden Dateinamen in Ihrem OneDrive-Konto: **Fabrikam 2023 Financial presentation.docx**. Dieses Dokument wird für die nächsten Übung benötigt.
     
-    > [!IMPORTANT]
-    > Achten Sie darauf, dass Sie die Datei in OneDrive und nicht auf Ihrem lokalen PC speichern. In der nächsten Übung verwenden Sie Copilot in PowerPoint, um eine Folienpräsentation zu erstellen, die auf diesem Dokument basiert. Das Dokument muss sich in OneDrive befinden, damit Copilot darauf zugreifen kann.
+    > **WICHTIG:** Achten Sie darauf, dass Sie die Datei in OneDrive und nicht auf Ihrem lokalen PC speichern. In der nächsten Übung verwenden Sie Copilot in PowerPoint, um eine Folienpräsentation zu erstellen, die auf diesem Dokument basiert. Das Dokument muss sich in OneDrive befinden, damit Copilot darauf zugreifen kann.
 16. Schließen Sie in Ihrem Microsoft Edge-Browser den Tab, der dieses Dokument enthält.

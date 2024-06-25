@@ -8,7 +8,7 @@ Wenn Sie Copilot in Excel verwenden, müssen Sie über eine Excel-Tabelle verfü
 
 1.  Markieren Sie die Zelle oder den Bereich in den Daten.
 2.  Wählen Sie **Home &gt; Als Tabelle formatieren** aus.
-3.  Aktivieren Sie im Dialogfeld **Als Tabelle formatieren** das Kontrollkästchen neben **Meine Tabelle hat Überschriften** aus, wenn die erste Zeile des Bereichs die Kopfzeile sein soll.
+3.  Aktivieren Sie im Dialogfeld **Als Tabelle formatieren** das Kontrollkästchen neben **Tabelle hat Überschriften** aus, wenn die erste Zeile des Bereichs die Kopfzeile sein soll.
 4.  Wählen Sie **OK** aus.
 
 In dieser Übung verwenden Sie Copilot in Excel, um eine Markttrendtabelle zu analysieren, die sich bereits in einer Excel-Tabelle befindet. In dieser Übung werden viele vordefinierte Funktionen und Eingabeaufforderungen von Copilot untersucht.
@@ -31,8 +31,7 @@ Führen Sie die folgenden Schritte aus, um Copilot in Excel zu verwenden, um die
 8.  Überprüfen Sie die Ergebnisse dieser Eingabeaufforderung. Copilot hat zwei Antwortfenster angezeigt. Die erste Antwort enthielt eine Pivot-Tabelle, in welcher der Gesamtumsatz nach Kampagnentyp zusammengefasst wurde. Die zweite Antwort enthielt eine Erklärung dafür, was in der ersten Antwort getan wurde. Wählen Sie in der ersten Antwort, die diese Tabelle enthält, die Schaltfläche **+Zu einem neuen Blatt hinzufügen** aus. Dadurch wird diese Tabelle zu **Tabellenblatt 2** dieser Kalkulationstabelle hinzugefügt, die Copilot für Sie geöffnet hat.
 9.  Beim Betrachten von **Tabellenblatt 2**stellen Sie fest, dass Copilot kein Diagramm für die Pivot-Tabelle erstellt hat. Wenn Sie sich die von Ihnen übermittelte Aufforderung ansehen, stellen Sie fest, dass Sie Copilot gerade aufgefordert haben, eine Pivot-Tabelle zu erstellen – Sie haben nie etwas über ein Diagramm gesagt. Sie möchten eine Visualisierung dieser Daten sehen, daher möchten Sie eine Eingabeaufforderung eingeben, in der Copilot aufgefordert wird, ein Diagramm zu generieren, das zu der Pivot-Tabelle in **Tabellenblatt 2** passt. Beachten Sie jedoch, dass das Eingabeaufforderungsfeld deaktiviert ist, während Sie sich in **Tabellenblatt 2** befinden.
     
-    > [!NOTE]
-    > Das Eingabeaufforderungsfeld ist nur auf dem Blatt mit der Excel-Tabelle aktiviert. Für dieses Arbeitsblatt ist das **Tabellenblatt 1**. Wenn Sie diese Übung fortsetzen, müssen Sie jedes Mal, wenn Copilot Daten zu einem neuen Tabellenblatt hinzufügt, zu **Tabellenblatt 1** zurückkehren, um weitere Änderungen anzufordern.
+    > **HINWEIS:** Das Eingabeaufforderungsfeld ist nur auf dem Blatt mit der Excel-Tabelle aktiviert. Für dieses Arbeitsblatt ist das **Tabellenblatt 1**. Wenn Sie diese Übung fortsetzen, müssen Sie jedes Mal, wenn Copilot Daten zu einem neuen Tabellenblatt hinzufügt, zu **Tabellenblatt 1** zurückkehren, um weitere Änderungen anzufordern.
 10. Wählen Sie **Tabellenblatt 1** aus und geben Sie dann die folgende Eingabeaufforderung ein:
     
     **In Tabellenblatt 2 wurde eine Pivot-Tabelle erstellt, um den Gesamtumsatz zu analysieren, der von jedem Kampagnentyp generiert wird. Erstelle ein Diagramm in Tabelle 2, um diese Daten zu visualisieren**.

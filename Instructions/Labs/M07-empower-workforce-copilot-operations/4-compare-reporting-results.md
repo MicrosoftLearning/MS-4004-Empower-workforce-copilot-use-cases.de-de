@@ -27,8 +27,7 @@ Da Sie einen Bericht erstellen möchten, denken Sie natürlich daran, Microsoft 
     **Ich bin Operations Manager für die Adatum Corporation. Wir denken daran, möglicherweise das aktuelle Kesselsystem unseres Gebäudes durch ein Ofensystem zu ersetzen. Ich möchte einen Bericht, der beschreibt, welche Art von Kesselsystemen in den meisten Gewerbegebäuden verwendet werden, und der angibt, welche Überlegungen ich berücksichtigen muss, um von einem bestehenden Kesselsystem zu einem Ofensystem zu wechseln, die durchschnittlichen Kosten für den Übergang von einem Kesselsystem zu einem Ofensystem in einem kommerziellen zweistöckigen Gebäude, das in den 1970er Jahren gebaut wurde, ob der Wechsel von einem Kesselsystem zu einem Ofensystem Auswirkungen auf unsere aktuelle Klimaanlage und die durchschnittlichen Fehlerraten für Kesselanlagen im Vergleich zu Ofensystemen hat.**
 4.  Überprüfen Sie den Bericht, den Copilot generiert hat. Beachten Sie den Detaillierungsgrad in jedem Interessenbereich. Da Sie dieses Dokument für die nächste Anwendungsfallübung speichern möchten, wählen Sie die Schaltfläche **Beibehalten** auf der Taskleiste "Copilot" aus, und speichern Sie dann das Dokument.
     
-    > [!IMPORTANT]
-    > Stellen Sie sicher, dass Sie den Bericht speichern, da Sie ihn in der nächsten Anwendungsfallübung verwenden werden.
+    > **WICHTIG:** Stellen Sie sicher, dass Sie den Bericht speichern, da Sie ihn in der nächsten Anwendungsfallübung verwenden werden.
 5.  Die Aufforderung, die Sie zum Erstellen des Berichts eingegeben haben, enthielt fünf Anforderungen. Jetzt möchten Sie Copilot jede dieser fünf Fragen einzeln stellen. Wählen Sie **Copilot** in der Word-Menüleiste aus, wodurch der Bereich **Copilot** geöffnet wird.
 6.  Geben Sie im Bereich **Copilot** im Eingabeaufforderungsfeld unten im Bereich die folgende Frage ein, und wählen Sie dann den Pfeil **Senden** aus:
     

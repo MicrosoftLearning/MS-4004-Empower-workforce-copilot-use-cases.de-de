@@ -20,20 +20,20 @@ In der vorherigen Übung haben Sie Microsoft Copilot verwendet, um einen Bericht
 
 1.  Wenn Sie die vorherige Übung abgeschlossen und einen Bericht erstellt haben, der Kessel- und Ofenheizungssysteme vergleicht, überprüfen Sie, ob Sie ihn in Ihr OneDrive-Konto kopiert haben, und fahren Sie mit dem nächsten Schritt fort. Wenn Sie diesen Bericht jedoch in der vorherigen Übung nicht erstellen konnten, wählen Sie den folgenden Link aus, um einen [Bericht über den Vergleich von Kessel- und Ofenheizungssystemen](https://edxinteractivepage.blob.core.windows.net/ms-4004/Comparing%20boiler%20and%20furnace%20heating%20systems%20report.docx) herunterzuladen, der für Sie erstellt wurde. Nachdem der Download der Datei abgeschlossen ist, kopieren Sie sie in Ihr OneDrive-Konto.
 2.  Öffnen Sie den Bericht, um zu überprüfen, ob alles in Ordnung ist, und schließen Sie dann die Datei. Dadurch wird auch sichergestellt, dass sie in der Dateiliste "Zuletzt verwendet" (MRU) angezeigt wird.
-3.  Wenn Sie eine Microsoft 365-Registerkarte in Ihrem Microsoft Edge-Browser geöffnet haben, wählen Sie sie jetzt aus. Öffnen Sie andernfalls eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**
-4.  Wählen Sie auf der **Microsoft 365**-Startseite im Navigationsbereich auf der linken Seite das **PowerPoint**-Symbol aus.
+3.  Wenn Sie eine Microsoft 365-Registerkarte in Ihrem Microsoft Edge-Browser geöffnet haben, wählen Sie diese jetzt aus. Öffnen Sie andernfalls eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**
+4.  Wählen Sie auf der **Microsoft 365**-Homepage im Navigationsbereich auf der linken Seite das **PowerPoint**-Symbol aus.
 5.  Öffnen Sie in **PowerPoint** eine neue leere Präsentation.
 6.  Wählen Sie auf der rechten Seite der PowerPoint-Menüleiste die Option **Copilot** aus.
 7.  Im angezeigten Bereich **Copilot** stehen Ihnen mehrere vordefinierte Eingabeaufforderungen zur Auswahl zur Verfügung. Wählen Sie die Aufforderung **Präsentation aus Datei erstellen** aus.
 8.  Im Eingabeaufforderungsfeld unten im Bereich **Copilot** gibt Copilot automatisch den Text ein: **Präsentation aus Datei / ** erstellen. Der Schrägstrich ist der universelle Copilot-Indikator, um einen Link zu einer Datei einzugeben. In diesem Fall wird Copilot angewiesen, das Fenster **Vorschläge** zu öffnen, in dem drei der zuletzt verwendeten Dateien angezeigt werden.
-     -  Wenn Ihre Datei hier angezeigt wird, wählen Sie sie jetzt aus, und fahren Sie mit dem nächsten Schritt fort.
-     -  Wenn die Datei nicht einer der drei angezeigten ist, wählen Sie in der oberen rechten Ecke des Fensters **Vorschläge** den rechten Pfeil (**&gt;**) aus, um eine erweiterte MRU-Dateiliste anzuzeigen. Wenn die Datei hier angezeigt wird, wählen Sie sie jetzt aus, und fahren Sie mit dem nächsten Schritt fort.
-     -  Wenn Ihre Datei in der erweiterten MRU-Liste nicht angezeigt wird, müssen Sie den Link zum Bericht kopieren und in das Eingabeaufforderungsfeld einfügen. Dazu gehen Sie wie folgt vor:
-        1.  Wählen Sie die **Microsoft 365**-Browserregisterkarte und dann **Word** im Navigationsbereich aus.
-        2.  Wählen Sie auf der **Word**-Startseite in der Liste der zuletzt verwendeten Dateien den Bericht aus, um ihn in Word zu öffnen.
-        3.  Wählen Sie im Bericht in Word ganz rechts über der Menüleiste die Schaltfläche **Freigeben** aus. Wählen Sie im angezeigten Dropdownmenü **Link kopieren** aus. Warten Sie, bis das Fenster **Link kopiert** angezeigt wird. Dies gibt Ihnen Gewissheit, dass der Link zur Datei in die Zwischenablage kopiert wurde.
+     -  Wenn Ihre Datei hier angezeigt wird, wählen Sie diese jetzt aus, und fahren Sie mit dem nächsten Schritt fort.
+     -  Wenn die Datei nicht eine der drei angezeigten ist, wählen Sie in der oberen rechten Ecke des Fensters **Vorschläge** den rechten Pfeil (**&gt;**) aus, um eine erweiterte MRU-Dateiliste anzuzeigen. Wenn die Datei hier angezeigt wird, wählen Sie diese jetzt aus, und fahren Sie mit dem nächsten Schritt fort.
+     -  Wenn Ihre Datei in der erweiterten MRU-Liste nicht angezeigt wird, müssen Sie den Link zum Bericht kopieren und in das Promptfeld einfügen. Dazu gehen Sie wie folgt vor:
+        1.  Wählen Sie die **Microsoft 365**-Browserregisterkarte und dann im Navigationsbereich **Word** aus.
+        2.  Wählen Sie auf der **Word**-Homepage in der Liste der zuletzt verwendeten Dateien den Bericht aus, um ihn in Word zu öffnen.
+        3.  Wählen Sie im Bericht in Word ganz rechts über dem Menüband die Schaltfläche **Freigeben** aus. Wählen Sie im angezeigten Dropdownmenü **Link kopieren** aus. Warten Sie, bis das Fenster **Link kopiert** angezeigt wird. Dies gibt Ihnen Gewissheit, dass der Link zur Datei in die Zwischenablage kopiert wurde.
         4.  Wechseln Sie zur **PowerPoint**-Registerkarte, und am unteren Rand des Bereichs **Copilot** sollte das Eingabeaufforderungsfeld weiterhin **Präsentation aus Datei / ** erstellen anzeigen. Positionieren Sie den Cursor nach dem Schrägstrich (**/**) und fügen Sie dann den Link zum Bericht ein (**STRG+V**).
-9.  Beachten Sie, wie die Datei im Eingabeaufforderungsfeld angezeigt wird. Wählen Sie das Symbol **Senden** im Eingabeaufforderungsfeld aus.
+9.  Beachten Sie, wie die Datei im Promptfeld angezeigt wird. Wählen Sie das Symbol **Senden** im Promptfeld aus.
 10. Dadurch wurde Copilot aufgefordert, eine Folienpräsentation basierend auf dem Dokument zu erstellen. Dabei wurde zunächst die Gliederung der Präsentation im Copilot-Bereich angezeigt. Anschließend wurde ein separates Fenster mit einer Aufzählung einiger der Änderungen angezeigt, die das Tool auf der Grundlage des Dokuments an der Präsentation vorgenommen hat.
 11. Jetzt können Sie die Folien überprüfen und alle erforderlichen Aktualisierungen vornehmen. Achten Sie besonders auf die Änderungen, die Copilot basierend auf dem Dokument vorgenommen hat. Sie können das **Designer**-Tool verwenden, um die Layouts anzupassen.
 12. Überprüfen Sie die Sprechernotizen, die Copilot jeder Folie in der Präsentation hinzugefügt hat. Überprüfen Sie, ob sie die Punkte enthalten, die Sie während der Präsentation erwähnen möchten.
@@ -53,8 +53,7 @@ In der vorherigen Übung haben Sie Microsoft Copilot verwendet, um einen Bericht
     
     **Die durchschnittliche Lebensdauer eines Heizkesselsystems beträgt etwa 15 Jahre, während die eines Ofenheizungssystems bis zu 20 Jahre betragen kann. Die tatsächliche Lebensdauer des Systems kann jedoch abhängig von Faktoren wie Wartung, Nutzung und Qualität des Systems variieren.**
 
-    > [!NOTE]
-    > In diesem Beispiel wird gezeigt, dass Sie manchmal nur Ihre Eingabeaufforderungen neu bearbeiten müssen, wenn Copilot nicht genau das tut, was Sie wollten.
+    > **HINWEIS:** In diesem Beispiel wird gezeigt, dass Sie manchmal nur Ihre Eingabeaufforderungen neu bearbeiten müssen, wenn Copilot nicht genau das tut, was Sie wollten.
 
 18. Sie stellen fest, dass am Ende keine Folie für eine Frage-und-Antwort-Sitzung (Q&A) vorhanden ist. Um diese Situation zu beheben, geben Sie die folgende Eingabeaufforderung ein:
     
