@@ -26,8 +26,7 @@ Als leitender Berater für Trey Research sind Sie für die Verwaltung des Fabrik
     **Schreiben Sie einen neuen Abschnitt für dieses Dokument zu den Typen von VPNs. Besprechen Sie die Vor- und Nachteile der einzelnen Typen. Dieser Inhalt ist für ein technisches Publikum vorgesehen. Bitte geben Sie daher spezifische Details an.**
 7.  Wie Sie sehen können, fügt Copilot keine neuen Inhalte direkt in ein Dokument ein. Das Tool zeigt den Inhalt in einem Antwortfenster im Copilot-Bereich an. Es stellt jedoch unten in jedem Antwortfenster eine Schaltfläche **Kopieren** bereit. Wählen Sie daher die Schaltfläche **Kopieren** aus, um den Inhalt in die Zwischenablage zu kopieren. Beim Betrachten des Dokuments entscheiden Sie, den Inhalt unterhalb des ersten Absatzes einzufügen. Fügen Sie den Inhalt jetzt ein.
     
-    > [!TIP]
-    > Wenn Sie die Schaltfläche **Kopieren** für ein Antwortfenster auswählen, kopiert sie ALLE Inhalte, einschließlich der Kommentare von Copilot, die für Sie vorgesehen sind. Diese Arten von Kommentaren befinden sich in der Regel am Anfang und Am Ende der Antwort. Stellen Sie sicher, dass Sie diese Kommentare entfernen, nachdem Sie die Antwort in Ihr Dokument eingefügt haben. Möglicherweise stimmen Schriftart und Schriftgröße des neuen Inhalts nicht mit der vorhandenen Schriftart und -größe überein, die im gesamten Dokument verwendet wird. Daher müssen Sie diese entsprechend ändern.
+    > **TIPP:** Wenn Sie die Schaltfläche **Kopieren** für ein Antwortfenster auswählen, kopiert sie ALLE Inhalte, einschließlich der Kommentare von Copilot, die für Sie vorgesehen sind. Diese Arten von Kommentaren befinden sich in der Regel am Anfang und Am Ende der Antwort. Stellen Sie sicher, dass Sie diese Kommentare entfernen, nachdem Sie die Antwort in Ihr Dokument eingefügt haben. Möglicherweise stimmen Schriftart und Schriftgröße des neuen Inhalts nicht mit der vorhandenen Schriftart und -größe überein, die im gesamten Dokument verwendet wird. Daher müssen Sie diese entsprechend ändern.
 
 8.  Bei weiterer Überprüfung stellen Sie fest, dass es keine Erwähnung von Sicherheitsrichtlinien im Zusammenhang mit der VPN-Nutzung gibt. Dieses Thema ist ein wichtiger Bereich, den Sie einfügen möchten. Geben Sie daher die folgende Eingabeaufforderung ein:
     
@@ -35,8 +34,7 @@ Als leitender Berater für Trey Research sind Sie für die Verwaltung des Fabrik
 9.  Kopieren Sie den Inhalt aus dieser Antwort, und fügen Sie ihn in das Dokument ein. Platzieren Sie ihn direkt vor dem Abschnitt **Risiken und Risikominderungen**, und bearbeiten Sie dann den Inhalt nach Bedarf. Fügen Sie bei Bedarf eine Überschrift für diesen Abschnitt mit dem Titel **Sicherheitsrichtlinien im Zusammenhang mit der VPN-Verwendung** hinzu.
 10. Als Sie den Bericht durchgesehen haben, haben Sie auch einen Inhaltsbereich identifiziert, der Ihrer Meinung nach umgeschrieben werden musste. Im Abschnitt **Risiken und Risikominderungen** umfasst das erste Aufzählungszeichen sowohl private als auch unternehmensweite VPNs. Sie möchten, dass sie nur unternehmensweite VPNs adressieren soll. Angesichts der Art und Weise, wie der Inhalt geschrieben ist, scheint dies jedoch nicht gerade einfach zu sein. Sie entscheiden, dass Copilot den Inhalt für Sie neu schreiben soll.
     
-    > [!TIP]
-    > Damit Copilot Inhalte neu schreibt, müssen Sie zuerst den Inhalt hervorheben, den Copilot neu schreiben soll.
+    > **TIPP:** Damit Copilot Inhalte neu schreibt, müssen Sie zuerst den Inhalt hervorheben, den Copilot neu schreiben soll.
     
 11. Markieren Sie den Inhalt im ersten Aufzählungszeichen des Abschnitts **Risiken und Risikominderungen**, und geben Sie dann die folgende Eingabeaufforderung ein:
     

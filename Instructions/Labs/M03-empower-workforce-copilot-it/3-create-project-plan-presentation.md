@@ -25,8 +25,8 @@ Als IT-Leiter bei der Adatum Corporation planen Sie die Installation des Contoso
 3.  Wenn Sie eine Microsoft 365-Registerkarte in Ihrem Microsoft Edge-Browser geöffnet haben, wählen Sie diese jetzt aus. Öffnen Sie andernfalls eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**
 4.  Wählen Sie auf der **Microsoft 365**-Homepage im Navigationsbereich auf der linken Seite das **PowerPoint**-Symbol aus.
 5.  Öffnen Sie in **PowerPoint** eine neue leere Präsentation.
-6.  Wählen Sie auf der rechten Seite des Menübands die Option **Copilot** aus.
-7.  Im angezeigten Bereich **Copilot** stehen Ihnen mehrere vordefinierte Prompts zur Auswahl zur Verfügung. Wählen Sie den Prompt **Präsentation aus Datei erstellen** aus.
+6.  Wählen Sie auf der rechten Seite des Menüs die Option **Copilot** aus.
+7.  Im angezeigten Bereich **Copilot** stehen Ihnen mehrere vordefinierte Eingabeaufforderungen zur Auswahl zur Verfügung. Wählen Sie den Prompt **Präsentation aus Datei erstellen** aus.
 8.  Im Prompt unten im Bereich **Copilot** gibt Copilot automatisch den Text ein: **Präsentation aus Datei erstellen/**. Der Schrägstrich ist der universelle Copilot-Indikator, um einen Link zu einer Datei einzugeben. In diesem Fall wird Copilot angewiesen, das Fenster **Vorschläge** zu öffnen, in dem drei der zuletzt verwendeten Dateien angezeigt werden.
      -  Wenn Ihre Datei hier angezeigt wird, wählen Sie diese jetzt aus, und fahren Sie mit dem nächsten Schritt fort.
      -  Wenn die Datei nicht eine der drei angezeigten ist, wählen Sie in der oberen rechten Ecke des Fensters **Vorschläge** den rechten Pfeil (**&gt;**) aus, um eine erweiterte MRU-Dateiliste anzuzeigen. Wenn die Datei hier angezeigt wird, wählen Sie diese jetzt aus, und fahren Sie mit dem nächsten Schritt fort.
@@ -53,8 +53,7 @@ Als IT-Leiter bei der Adatum Corporation planen Sie die Installation des Contoso
          
       ![Screenshot des Prompts zum Ersetzen des Bilds auf einer Folie und der Antwort von Copilot.](../media/copilot-powerpoint-replace-message-2-aa694058.png)
 
- > [!TIP]
- > Denken Sie daran, dass sich Copilot noch in der Entwicklung befindet und einige Features noch verbessert werden müssen. Als bewährte Methode gilt folgendes: Wenn Copilot Ihre Anforderung nicht abschließen kann, versuchen Sie es erneut. Und wenn es immer noch nicht funktioniert, dann versuchen Sie, Ihre Anforderung umzuformulieren oder in zwei Teile aufzuteilen.
+ > **TIPP:** Denken Sie daran, dass sich Copilot noch in der Entwicklung befindet und einige Features noch verbessert werden müssen. Als bewährte Methode gilt folgendes: Wenn Copilot Ihre Anforderung nicht abschließen kann, versuchen Sie es erneut. Und wenn es immer noch nicht funktioniert, dann versuchen Sie, Ihre Anforderung umzuformulieren oder in zwei Teile aufzuteilen.
 
 16. Auch wenn Copilot funktionierte und Ihr Bild ersetzt hat, gehen wir für diese Übung davon aus, dass dies nicht der Fall ist. In diesem Fall bitten wir Copilot, das Bild nicht nur zu ersetzen, sondern die alte Folie zu entfernen und durch eine völlig neue Folie zu ersetzen, die ein anderes Bild enthält. Geben Sie daher den folgenden Prompt ein:
     
@@ -70,8 +69,7 @@ Als IT-Leiter bei der Adatum Corporation planen Sie die Installation des Contoso
       -  Oder hat er die alte Folie entfernt, aber keine neue Folie erstellt? Wenn ja, bitten Sie ihn, eine neue F&A-Folie mit einem Bild zu erstellen.
       -  Oder hat er gar nichts getan? Wenn dies der Fall ist, versuchen Sie, diesen letzten Prompt in zwei zu unterteilen – bitten Sie ihn zuerst, die F&A-Folie zu entfernen, und senden Sie dann einen zweiten Prompt, in dem er aufgefordert wird, eine neue F&A-Folie mit einem Bild zu erstellen.
     
- > [!TIP]
- > Wenn Copilot nicht das getan hat, was Sie verlangt haben, oder wenn er einen Fehler zurückgegeben hat, dann ist dieses Szenario ein gutes Beispiel dafür, dass man Prompts so einfach wie möglich halten sollte. Folgen Sie dem Vorschlag von Copilot, indem Sie Ihre Anforderung umformulieren. Es ist am besten, Copilot zu bitten, eine Aufgabe nach der anderen zu erledigen, z. B. zuerst die alte Folie zu entfernen und dann eine zweite Anforderung zu stellen, um eine neue Folie mit einem Bild hinzuzufügen (in unseren Tests verwendete Copilot bei jeder Anforderung ein anderes Bild).
+ > **TIPP:** Wenn Copilot nicht das getan hat, was Sie verlangt haben, oder wenn er einen Fehler zurückgegeben hat, dann ist dieses Szenario ein gutes Beispiel dafür, dass man Prompts so einfach wie möglich halten sollte. Folgen Sie dem Vorschlag von Copilot, indem Sie Ihre Anforderung umformulieren. Es ist am besten, Copilot zu bitten, eine Aufgabe nach der anderen zu erledigen, z. B. zuerst die alte Folie zu entfernen und dann eine zweite Anforderung zu stellen, um eine neue Folie mit einem Bild hinzuzufügen (in unseren Tests verwendete Copilot bei jeder Anforderung ein anderes Bild).
 18. Unabhängig davon, wie die letzten Schritte bei der Bearbeitung der F&A-Folie verlaufen sind, entscheiden Sie sich, weiterzumachen und eine letzte Sache zu versuchen. Beim Überprüfen der Präsentation entscheiden Sie, dass Sie das Design der Präsentation aufgrund der technischen Natur des Themas in etwas geeigneteres ändern möchten. Geben Sie den folgenden Prompt ein:
     
  **Ändere das Design dieser Präsentation in etwas technischeres.**

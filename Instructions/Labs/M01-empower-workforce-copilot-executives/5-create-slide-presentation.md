@@ -23,8 +23,7 @@ In der vorherigen Übung haben Sie aus der Dateiliste „Zuletzt verwendet“ au
     ![Screenshot des Menüs „Freigeben“ und hervorgehobener Option „Link kopieren“.](../media/share-menu-with-copy-link-9fd1c60a.png)
     
     
-     > [!TIP]
-     > Copilot kann gelegentlich Probleme mit der Verwendung der URL aus Ihrer Adressleiste haben. Kopieren Sie den Link aus der Taskleiste **Freigeben**, um optimale Ergebnisse zu erzielen.
+     > **TIPP:** Copilot kann gelegentlich Probleme mit der Verwendung der URL aus Ihrer Adressleiste haben. Kopieren Sie den Link aus der Taskleiste **Freigeben**, um optimale Ergebnisse zu erzielen.
 
 5.  Schließen Sie das Dialogfeld **Link kopiert**, das in Word angezeigt wird.
 6.  Sie können diese Dokumentregisterkarte in Ihrem Microsoft Edge-Browser schließen. Dadurch kehren Sie zur Registerkarte **Word \| Microsoft 365** zurück.

@@ -21,8 +21,7 @@ Wenn Sie im Bereich **Copilot** die Option **Weitere Eingabeaufforderungen** aus
      -  Highlights aus dieser Unterhaltung (Teams-Kanal)
      -  Besprechung rekapitulieren (Teams-Chat)
 
-> [!IMPORTANT]
-> Die vordefinierten Eingabeaufforderungen, die Copilot anzeigt, können je nach Inhalt variieren, der im ausgewählten Chat oder Kanal verfügbar ist.
+> **WICHTIG:** Die vordefinierten Eingabeaufforderungen, die Copilot anzeigt, können je nach Inhalt variieren, der im ausgewählten Chat oder Kanal verfügbar ist.
 
 Copilot in Teams verwendet die folgenden Richtlinien, um zu bestimmen, welche Eingabeaufforderungen für einen bestimmten Chat oder Kanal angezeigt werden sollen:
 
@@ -30,8 +29,7 @@ Copilot in Teams verwendet die folgenden Richtlinien, um zu bestimmen, welche Ei
  -  Copilot enthält nur die zeitgebundenen Eingabeaufforderungen ("Highlights aus der Vergangenheit...") und nicht zeitgebundene Eingabeaufforderungen ("Entscheidungen/offene Elemente"), wenn genügend Inhalt im Zeitrahmen vorhanden ist, um sie zu garantieren.
  -  Copilot zeigt keine Eingabeaufforderungen für einen Chat an, wenn am letzten Tag nicht genügend Inhalte vorhanden sind. In diesem Fall zeigt Copilot die folgende Meldung an, wenn Sie **Weitere Eingabeaufforderungen** auswählen: *Sie können Eingabeaufforderungen verwenden, wenn im Chat neue Inhalte vorhanden sind. In der Zwischenzeit kann Copilot Ihre Fragen immer noch beantworten.*
 
-> [!NOTE]
-> Wenn ein Chat oder Kanal nicht über genügend Inhalte verfügt, um die Verwendung von Copilot zu garantieren, wird das Symbol "Copilot" nicht angezeigt, wenn Sie den Chat oder Kanal auswählen.
+> **HINWEIS:** Wenn ein Chat oder Kanal nicht über genügend Inhalte verfügt, um die Verwendung von Copilot zu garantieren, wird das Symbol "Copilot" nicht angezeigt, wenn Sie den Chat oder Kanal auswählen.
 
 #### Verwenden von Copilot in einem Teams-Chat
 
@@ -43,8 +41,7 @@ Als Führungskraft für Ihre Organisation möchten Sie Copilot in Microsoft Team
    ![Screenshot eines Chats in Teams und hervorgehobenem Symbol "Copilot".](../media/copilot-teams-icon-da01ab29.png)
     
     
-   > [!NOTE]
-   > Das Symbol "Copilot" wird in einem Einzelchat, einem Gruppenchat und einem Besprechungschat angezeigt.
+   > **HINWEIS:** Das Symbol "Copilot" wird in einem Einzelchat, einem Gruppenchat und einem Besprechungschat angezeigt.
 3.  Wählen Sie unten im angezeigten Bereich **Copilot** unter dem Eingabeaufforderungsfeld **Weitere Eingabeaufforderungen** aus. Wählen Sie im angezeigten Dropdownmenü **Highlights aus den letzten 30 Tagen** aus. Wenn diese vordefinierte Eingabeaufforderung nicht im Dropdownmenü angezeigt wird, geben Sie stattdessen die folgende Eingabeaufforderung ein:
     
     **Diesen Chat zusammenfassen**.

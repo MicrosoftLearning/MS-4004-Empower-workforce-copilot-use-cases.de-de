@@ -2,8 +2,7 @@
 ---
 Copilot in Outlook ist ein KI-basiertes Tool, mit dem Finanzexperten beim Entwerfen von benutzerdefinierten E-Mails und E-Mail-Antworten Zeit und Mühe sparen können. Mit Copilot können Sie schnell E-Mail-Entwürfe generieren, die Copilot auf Ihre spezifischen Anforderungen anpasst, ohne dass Sie diese stundenlang schreiben und bearbeiten müssen. In dieser Schulung verwenden Sie Copilot in Outlook, um eine neue E-Mail basierend auf einer Reihe benutzerdefinierter Prompts zu entwerfen.
 
-> [!IMPORTANT]
-> Copilot-Szenarios in Outlook sind nur für das primäre Postfach eines Benutzers verfügbar. Sie sind nicht für das Archivpostfach eines Benutzers, Gruppenpostfächer oder freigegebene und delegierte Postfächer verfügbar, auf die der Benutzer Zugriff hat. Microsoft unterstützt nur Copilot für Outlook für Postfächer, die in Exchange Online gehostet werden. Darüber hinaus wird Copilot in Outlook nur in Microsoft 365-Geschäfts-, Schul- oder Unikonten und Microsoft-Konten mit bestimmten E-Mail-Domänen unterstützt. Es wird sowohl von Copilot für Microsoft 365 mit Ihrem Microsoft Entra ID-Konto als auch von Copilot Pro mit Ihrem MSA-Konto unterstützt. Jedes Microsoft-Konto, das ein Konto von einem Drittanbieter verwendet, kann Outlook weiterhin verwenden, hat jedoch keinen Zugriff auf die Copilot-Features in Outlook.
+> **WICHTIG:** Copilot-Szenarien in Outlook sind nur für das primäre Postfach von Benutzern und Benutzerinnen verfügbar. Sie sind nicht für das Archivpostfach von Benutzern und Benutzerinnen, Gruppenpostfächer oder freigegebene und delegierte Postfächer verfügbar, auf die Benutzer und Benutzerinnen Zugriff haben. Microsoft unterstützt Copilot für Outlook nur für Postfächer, die in Exchange Online gehostet werden. Überdies wird Copilot in Outlook nur in Microsoft 365-Geschäfts-, Schul- oder Unikonten und Microsoft-Konten mit bestimmten E-Mail-Domänen unterstützt. Die Funktion wird sowohl von Copilot für Microsoft 365 mit Ihrem Microsoft Entra ID-Konto als auch von Copilot Pro mit Ihrem MSA-Konto unterstützt. Jedes Microsoft-Konto, das ein Konto von einem Drittanbieter verwendet, kann Outlook weiterhin verwenden, hat jedoch keinen Zugriff auf die Copilot-Features in Outlook.
 
 ### Übung
 
@@ -18,10 +17,10 @@ Sie möchten eine Besprechung mit dem Team des Versicherungsträgers ausmachen, 
 Führen Sie die folgenden Schritte aus, um die E-Mail zu generieren:
 
 1.  Öffnen Sie in **Microsoft 365 ****Outlook**.
-2.  Klicken Sie auf **Neue E-Mail**.
-3.  Wählen Sie auf der daraufhin geöffneten Registerkarte **Nachricht** und dann **Copilot** im Menüband aus. Wählen Sie im daraufhin angezeigten Dropdownmenü **Entwurf mit Copilot** aus.
+2.  Öffnen Sie eine **neue** E-Mail.
+3.  Wählen Sie auf der daraufhin geöffneten Registerkarte **Nachricht** im Menüband **Copilot ** aus. Wählen Sie im daraufhin angezeigten Dropdownmenü **Entwurf mit Copilot** aus.
 4.  Im Textkörper der Nachricht wird ein **Entwurf mit Copilot**-Fenster angezeigt. Das Promptfeld enthält folgende Nachricht: **Was soll diese E-Mail enthalten?** Am unteren Rand des Felds befindet sich das Symbol für **Generierungsoptionen**. Wählen Sie dieses Symbol aus, um die Optionen anzuzeigen, die von Copilot beim Erstellen einer E-Mail bereitgestellt werden.
-5.  Im angezeigten Dropdownmenü sehen Sie, dass Sie den Ton und die Länge der E-Mail ändern können. Beginnen Sie, indem Sie den **Ton** auf **Formell** und die **Länge** auf **Lang** festlegen. Wählen Sie nun diese Optionen aus.
+5.  Im angezeigten Dropdownmenü sehen Sie, dass Sie den Tonfall und die Länge der E-Mail ändern können. Beginnen Sie, indem Sie den **Ton** auf **Formell** und die **Länge** auf **Lang** festlegen. Wählen Sie nun diese Optionen aus.
 6.  Geben Sie den folgenden Prompt in das Feld **Was soll diese E-Mail sagen?** ein, und wählen Sie dann die Schaltfläche **Erstellen** aus:
     
     **Ich bin der Finanzvorstand (CFO) von Northwind Traders. Entwirf eine E-Mail an unseren Versicherungsträger, Humongous Insurance, und drücke meine Besorgnis über die Erhöhung der Krankenversicherungsprämien für unser Unternehmen in den kommenden Jahren aus. Bitte um eine Besprechung mit dem Team des Versicherungsträgers, um die geplante Erhöhung zu besprechen und zusammen alternative Optionen zu suchen.** 
@@ -38,11 +37,9 @@ Führen Sie die folgenden Schritte aus, um die E-Mail zu generieren:
 12. Wenn Sie sich nicht erinnern können, wie die beiden Nachrichten über die Anreden hinaus aussahen, folgen Sie den vorherigen Anweisungen, um den Rückwärtspfeil auszuwählen, um so zum ersten Entwurf zurückzukehren, der mit einem **formellen** Ton formuliert wurde. Wenn Sie unsicher sind, welchen Entwurf Sie bevorzugen, verwenden Sie die Vorwärts- und Rückwärtspfeile, um den ersten Entwurf (formell) mit dem dritten (ungezwungen) zu vergleichen. Fahren Sie mit dem nächsten Schritt fort, sobald Sie entschieden haben, welchen Entwurf Sie verwenden möchten.
 13. An diesem Punkt sollte Ihr bevorzugter Entwurf im Copilot-Fenster angezeigt werden. Neben den Änderungen am Ton und der Länge, die Sie zuvor vorgenommen haben, fällt Ihnen auf, dass die E-Mail etwas karg aussieht. Sie merken, dass keine detaillierten Informationen zu den Tariferhöhungen enthalten sind, zumindest keine ausführlichen zu individuellen Plänen und Familienplänen. Geben Sie im Feld **Möchten Sie etwas ändern?** den folgenden Prompt ein, und wählen Sie das Pfeilsymbol am Ende des Felds aus:
     
-    > [!IMPORTANT]
-    > Wählen Sie NICHT die Schaltfläche **Erneut generieren** aus. So kann der aktuelle Entwurf basierend auf dem folgenden Prompt nicht aktualisiert werden. Stattdessen wird eine völlig neue Nachricht generiert, die NUR auf diesem Prompt basiert – was nicht gewünscht ist.
+    > **WICHTIG:** Wählen Sie NICHT die Schaltfläche **Erneut generieren** aus. So kann der aktuelle Entwurf basierend auf dem folgenden Prompt nicht aktualisiert werden. Stattdessen wird eine völlig neue Nachricht generiert, die NUR auf diesem Prompt basiert – was nicht gewünscht ist.
     
-    > [!Note]
-    > **Stellen einen Vergleich über die Höhe der für Northwind Traders vorgeschlagenen Prämienerhöhungen mit den branchenweiten Prämienerhöhungen auf. Unsere individuellen Versicherungsprämien sind über 9 % und die Familienpolice sogar über 15 % gestiegen. Erwähne, wie unsere Erhöhung den Branchendurchschnitt von 6 % bzw. 10 % bei weitem übersteigt.**
+    > **HINWEIS:** Vergleichen Sie die Höhe der Prämienerhöhungen für Northwind Traders im Vergleich zu branchenweiten Premiumerhöhungen. Unsere individuellen Versicherungsprämien sind über 9 % und die Familienpolice sogar über 15 % gestiegen. Erwähnen Sie, wie unsere Erhöhung den Branchendurchschnitt von 6 % bzw. 10 % bei weitem übersteigt.
 14. Was würde passieren, wenn Sie die E-Mail basierend auf diesem letzten Prompt aktualisieren? Wahrscheinlich wird eine Fehlermeldung wie die folgende angezeigt: „**Es ist ein Fehler aufgetreten. Copilot arbeitet daran**.“ Der Grund, warum Sie diesen Fehler erhalten haben, ist, dass Copilot derzeit nur eine Änderung pro Prompt annimmt, wenn Sie eine Änderungsanforderung an einen Entwurf übermitteln. In diesem Fall haben Sie zwei Änderungen angefordert: Vergleichen der Tariferhöhungen mit dem Branchendurchschnitt und Definieren der bestimmten Tariferhöhungen.
     
     Hier lautet die Faustregel für Prompts beim Arbeiten in Copilot für Outlook:
