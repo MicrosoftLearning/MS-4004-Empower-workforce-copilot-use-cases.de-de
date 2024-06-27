@@ -25,7 +25,7 @@ Als Director für Marketing für Contoso Beverage, eine Abteilung von Contoso, L
 
 Führen Sie die folgenden Schritte aus, um die Markttrendtabelle mithilfe von Copilot in Excel zu analysieren:
 
-1.  Wenn Sie die Tabelle [Contoso Chai Tea market trends 2023](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.xlsx) in der vorherigen Übung heruntergeladen haben, fahren Sie mit dem nächsten Schritt fort. Wählen Sie andernfalls den Link aus, um die Datei herunterzuladen, und verschieben Sie sie in Ihr OneDrive-Konto. Öffnen und schließen Sie die Datei dann, damit sie in Ihrer Liste der zuletzt verwendeten Dateien angezeigt wird.
+1.  Wenn Sie die Tabelle [Contoso Chai Tea market trends 2023](https://go.microsoft.com/fwlink/?linkid=2268822) in der vorherigen Übung heruntergeladen haben, fahren Sie mit dem nächsten Schritt fort. Wählen Sie andernfalls den Link aus, um die Datei herunterzuladen, und verschieben Sie sie in Ihr OneDrive-Konto. Öffnen und schließen Sie die Datei dann, damit sie in Ihrer Liste der zuletzt verwendeten Dateien angezeigt wird.
 2.  Wenn Sie eine Microsoft 365-Registerkarte in Ihrem Microsoft Edge-Browser geöffnet haben, wählen Sie sie jetzt aus. Öffnen Sie andernfalls eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**
 3.  Wählen Sie auf der **Microsoft 365**-Startseite im Navigationsbereich auf der linken Seite das **Excel**-Symbol aus.
 4.  Wählen Sie in **Excel** auf der Seite **Datei** die Datei **Contoso Chai Tea market trends 2023.xlsx** aus der Dateiliste aus.

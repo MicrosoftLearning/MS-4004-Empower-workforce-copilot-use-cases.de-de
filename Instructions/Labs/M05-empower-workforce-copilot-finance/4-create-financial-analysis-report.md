@@ -14,7 +14,7 @@ Wenn Sie an einem bereits vorhandenen Dokument arbeiten, kann Copilot Ihnen dabe
 
 In der vorherigen Übung haben Sie Copilot in Excel als Director of Finance von Fabrikam verwendet, um die Wirksamkeit der Marketingkampagnen des Unternehmens für das erste Quartal zu analysieren. In dieser Übung möchten Sie Copilot in Word verwenden, um einen Bericht zu generieren, der die Analyse dieser Daten zusammenfasst. Die Tabelle wurde für Sie kopiert und in ein Word-Dokument eingefügt. Dieses laden Sie im ersten Schritt herunter.
 
-1.  Wählen Sie [diesen Link](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaign%20data.docx) aus, um die Daten der Fabrikam-Marketingkampagnen für das erste Quartal herunterzuladen.
+1.  Wählen Sie [diesen Link](https://go.microsoft.com/fwlink/?linkid=2268926) aus, um die Daten der Fabrikam-Marketingkampagnen für das erste Quartal herunterzuladen.
 2.  Verschieben Sie die Datei nach Abschluss des Downloads in Ihr OneDrive-Konto. Öffnen und schließen Sie die Datei, damit sie in Ihrer Liste der zuletzt verwendeten Dateien angezeigt wird.
 3.  Falls in Ihrem Microsoft Edge-Browser ein Tab mit **Microsoft 365** geöffnet ist, wählen Sie diesen jetzt aus. Öffnen Sie andernfalls einen neuen Tab, und geben Sie die folgende URL ein: **https://www.office.com**.
 4.  Öffnen Sie in **Microsoft 365** die Anwendung **Microsoft Word**, und öffnen Sie anschließend ein leeres Dokument.

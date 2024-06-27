@@ -10,7 +10,7 @@ Copilot in Word kann auch Mitarbeiterfeedback und Umfragen analysieren und Perso
 
 Als Leiter der Personalverwaltung am Graphic Design Institute haben Sie den Einstellungsprozess für einen neuen Senior Animation Designer begonnen. Ihre Mitarbeiter haben ein Dokument erstellt, in dem alle Zuständigkeiten für diese Rolle beschrieben werden. Sie möchten jetzt Copilot in Word verwenden, um eine Stellenbeschreibung basierend auf den Zuständigkeiten in diesem Dokument zu erstellen.
 
-1.  Wählen Sie den folgenden Link aus, um das Dokument [Graphic Design Institute - Design Team Zuständigkeiten](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Design%20Team%20Responsibilities.docx) herunterzuladen.
+1.  Wählen Sie den folgenden Link aus, um das Dokument [Graphic Design Institute - Design Team Zuständigkeiten](https://go.microsoft.com/fwlink/?linkid=2268824) herunterzuladen.
 2.  Nachdem der Download abgeschlossen ist, verschieben Sie die Datei in Ihr OneDrive-Konto, und öffnen und schließen Sie die Datei, um sie in die Liste der zuletzt verwendeten Dateien (Most Recently Used, MRU) aufzunehmen.
 3.  Wenn Sie eine Microsoft 365-Registerkarte in Ihrem Microsoft Edge-Browser geöffnet haben, wählen Sie sie jetzt aus. Öffnen Sie andernfalls eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**
 4.  Öffnen Sie in **Microsoft 365** **Microsoft Word**, und öffnen Sie dann ein leeres Dokument.

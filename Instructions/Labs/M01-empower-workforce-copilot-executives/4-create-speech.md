@@ -27,7 +27,7 @@ In dieser Übung wird die Liste der zuletzt verwendeten Dateien verwendet, um in
 
 Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Copilot in Word zu generieren:
 
-1.  Wählen Sie [diesen Link](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx) aus, um eine Kopie der Gewinn- und Verlustrechnung von Fabrikam für das Jahr 2023 herunterzuladen.
+1.  Wählen Sie [diesen Link](https://go.microsoft.com/fwlink/?linkid=2268823) aus, um eine Kopie der Gewinn- und Verlustrechnung von Fabrikam für das Jahr 2023 herunterzuladen.
 2.  Öffnen Sie nach Abschluss des Downloads den **Datei-Explorer**, und verschieben Sie die Datei aus dem Ordner **Downloads** in einen Ordner in Ihrem OneDrive-Konto.
 3.  In dieser Übung greifen Sie über die Liste der zuletzt verwendeten Dateien auf das Dokument zu. Damit die Datei in der Liste angezeigt wird, müssen Sie das Dokument öffnen und wieder schließen.
 4.  Öffnen Sie in **Microsoft 365** ein neues leeres **Microsoft Word**-Dokument, indem Sie die folgende URL eingeben: **Word.new** 

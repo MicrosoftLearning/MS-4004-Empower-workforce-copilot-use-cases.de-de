@@ -11,7 +11,7 @@ Darüber hinaus kann Copilot in PowerPoint neue Designideen für Präsentationen
 
 Als Vertriebs- und Marketingdirektor bei Contoso, Ltd., müssen Sie Ihrem Vertriebsteam eine Präsentation über das heißeste Verkaufsprodukt des Unternehmens, Contoso Protein Plus Shake, bereitstellen. Die Präsentation sollte den Markttrendbericht analysieren, den Ihr Marketingteam für das Produkt erstellt hat. Führen Sie die folgenden Schritte aus, um Copilot in PowerPoint basierend auf den Informationen in der **Market Trend Report - Protein Shake.docx** Datei zu erstellen, die Sie zu Beginn dieser Übung herunterladen.
 
-1.  Wählen Sie den folgenden Link aus, um eine Kopie des [Market Trend Report - Protein Shake](https://edxinteractivepage.blob.core.windows.net/ms-4004/Market%20Trend%20Report-%20Protein%20shake.docx) Dokuments herunterzuladen.
+1.  Wählen Sie den folgenden Link aus, um eine Kopie des [Market Trend Report - Protein Shake](https://go.microsoft.com/fwlink/?linkid=2268827) Dokuments herunterzuladen.
 2.  Nachdem der Download abgeschlossen ist, öffnen Sie den **Datei-Explorer**, und verschieben Sie die Datei aus Ihrem Ordner **Downloads** in einen Ordner in Ihrem OneDrive-Konto.
 3.  In dieser Übung greifen Sie über die Liste der zuletzt verwendeten Dateien auf das Dokument zu. Öffnen Sie das Dokument, und schließen Sie es, um die Datei in der Liste der zuletzt verwendeten Dateien (MRU) anzuzeigen.
 4.  Wenn Sie eine **Microsoft 365**-Registerkarte in Ihrem **Microsoft Edge-Browser** geöffnet haben, wählen Sie sie jetzt aus. Öffnen Sie andernfalls eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**

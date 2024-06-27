@@ -19,7 +19,7 @@ Als HR-Manager für Graphic Design Institute haben Sie den Interviewprozess abge
 
 Die E-Mail sollte formal und professionell im Tonfall sein, und sie sollte die Position, das Startdatum, das Gehalt und die Vorteile enthalten (die in einer Datei angezeigt werden, die Sie herunterladen müssen). Die E-Mail sollte auch erwähnen, dass das Angebot vom erfolgreichen Abschluss einer Hintergrundüberprüfung und anderen eventuell erforderlichen Vorabüberprüfungen abhängig ist. Als E-Mail-Angebotsbrief muss auch eine angefügte Kopie des Angebotsbriefs enthalten sein, damit die Kandidatin ihn unterzeichnen und zurücksenden kann.
 
-1.  Wählen Sie den folgenden Link aus, um das Dokument [Graphic Design Institute – Mitarbeitervorteile](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Employee%20benefits.docx) herunterzuladen.
+1.  Wählen Sie den folgenden Link aus, um das Dokument [Graphic Design Institute – Mitarbeitervorteile](https://go.microsoft.com/fwlink/?linkid=2268825) herunterzuladen.
 2.  Nachdem der Download abgeschlossen ist, verschieben Sie die Datei in Ihr OneDrive-Konto, und öffnen und schließen Sie die Datei, damit sie in Ihre Liste der zuletzt verwendeten Dateien (Most Recently Used, MRU) eingefügt wird.
 3.  Wenn Sie eine Microsoft 365-Registerkarte in Ihrem Microsoft Edge-Browser geöffnet haben, wählen Sie diese jetzt aus. Öffnen Sie andernfalls eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**
 4.  Öffnen Sie **Outlook** in **Microsoft 365**.
