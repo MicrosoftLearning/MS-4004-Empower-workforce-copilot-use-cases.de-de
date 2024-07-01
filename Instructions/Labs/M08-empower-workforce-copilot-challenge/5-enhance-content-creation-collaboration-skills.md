@@ -8,7 +8,7 @@ Eine Ihrer regelmäßigen Aufgaben besteht darin, Marketingberichte für Kunden 
 
 Einer der Juniormitarbeiter von Relecloud informierte Sie darüber, dass sie eine kurze Gliederung für ein neues Projekt mit Munson's Pickles and Preserves Farm erstellten. Munson's begann als kleiner Familienladen im östlichen Teil des Staates Washington, der Konserven und Konserven verkaufte. Im Laufe von fünf Jahren hat sich Munson's zu einem Multimillionen-Dollar-Unternehmen entwickelt, das seine Waren im gesamten Westen Kanadas und an der Pazifikküste der USA verkauft. Sie sind bereit, ihren Betrieb zu erweitern, beginnend mit den zentral kanadischen Provinzen und dem oberen Mittleren Westen (USA).
 
-Sie müssen den Marketingbericht herunterladen, indem Sie den folgenden Link auswählen: [Munson's Pickles and Preserves Farm - Marketing-Bericht](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Report%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx).
+Sie müssen den Marketingbericht herunterladen, indem Sie den folgenden Link auswählen: [Munson's Pickles and Preserves Farm - Marketing-Bericht](https://go.microsoft.com/fwlink/?linkid=2268063).
 
 Der Bericht enthält eine Zusammenfassung und eine Einleitung. Nach Durchsicht des Berichts können Sie jedoch feststellen, dass noch viel Arbeit vor Ihnen liegt, um ihn in einen praktikablen Marketingplan umzuwandeln. Die Zusammenfassung enthält Details, die nicht mit unterstützenden Dokumentationen begründet werden. Sie fanden auch, dass die Einführung weit von einer normalen "Einführung" entfernt war. Sie enthält eine Reihe von Ideen und Hintergrunddaten, die nicht in der Einführung enthalten sein sollten.
 
@@ -32,7 +32,7 @@ Zusammenfassend möchten Sie, dass Copilot diese kurze Gliederung in einen funkt
 
 Das Marketingteam von Relecloud traf sich letzte Woche, um gemeinsam an Kampagnenideen, Brainstorming-Sitzungen und Projektplanung im Zusammenhang mit dem Munson's Pickles and Preserves Farm-Projekt zu arbeiten. Sie haben alle ihre Erkenntnisse in einer riesigen Sammlung von Ideen für Marketingkampagnen zusammengefasst.
 
-Sie sollten diesen Bericht herunterladen, indem Sie den folgenden Link auswählen: [Ideen für Marketingkampagnen für Munson's Pickles and Preserves Farm](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Campaign%20Ideas%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx).
+Sie sollten diesen Bericht herunterladen, indem Sie den folgenden Link auswählen: [Ideen für Marketingkampagnen für Munson's Pickles and Preserves Farm](https://go.microsoft.com/fwlink/?linkid=2268691).
 
 Sie möchten nun die Kommunikation und den Ideenaustausch zwischen Ihrem Führungsteam und Vertretern von Munson's optimieren. Verwenden Sie dazu Copilot in Word, um diesen Kampagnen-Ideenbericht zu analysieren und daraus einen neuen Bericht mit dem Titel „Die fünf besten Marketingkampagnen-Ideen zur Unterstützung der kanadischen und US-amerikanischen Expansion von Munson's“ zu erstellen. Dieser neue Bericht sollte die Ergebnisse dieses Berichts über Marketingkampagnen-Ideen zusammenfassen und Schlüsselideen und potenzielle Aktionspunkte hervorheben. Der neue Bericht sollte Folgendes enthalten:
 

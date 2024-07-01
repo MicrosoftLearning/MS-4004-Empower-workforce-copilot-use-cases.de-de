@@ -19,7 +19,7 @@ Als Director of Finance von Fabrikam möchten Sie analysieren, wie effektiv die 
 
 Führen Sie die folgenden Schritte aus, um Copilot in Excel zu verwenden, um die Daten zu analysieren, die in der Kalkulationstabelle für Q1-Marketingkampagnen angezeigt werden:
 
-1.  Wählen Sie den folgenden Link aus, um die Kalkulationstabelle für [Fabrikam Q1-Marketingkampagnen](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaigns.xlsx) herunterzuladen.
+1.  Wählen Sie den folgenden Link aus, um die Kalkulationstabelle für [Fabrikam Q1-Marketingkampagnen](https://go.microsoft.com/fwlink/?linkid=2269124) herunterzuladen.
 2.  Nachdem der Download abgeschlossen ist, verschieben Sie die Datei in Ihr OneDrive-Konto, und öffnen und schließen Sie die Datei, um sie in Ihrer Liste der zuletzt verwendeten Dateien (Most Recently Used, MRU) abzurufen.
 3.  Wenn Sie eine Microsoft 365-Registerkarte in Ihrem Microsoft Edge-Browser geöffnet haben, wählen Sie sie jetzt aus. Öffnen Sie andernfalls eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**
 4.  Wählen Sie auf der **Microsoft 365**-Startseite im Navigationsbereich auf der linken Seite das **Excel**-Symbol aus.

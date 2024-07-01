@@ -18,9 +18,9 @@ Um auf die Lieferantenvereinbarungen zuzugreifen, müssen Sie die Dateien zunäc
 Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Copilot in Word zu generieren:
 
 1.  Wählen Sie die folgenden Links, um die drei Lieferantenvereinbarungen herunterzuladen:
-     -  [Contoso-Lieferantenvereinbarung](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Supplier%20Agreement.docx)
-     -  [Tailwind Traders-Lieferantenvereinbarung](https://edxinteractivepage.blob.core.windows.net/ms-4004/Tailwind%20Traders%20Supplier%20Agreement.docx)
-     -  [Wide World Importers-Lieferantenvereinbarung](https://edxinteractivepage.blob.core.windows.net/ms-4004/Wide%20World%20Importers%20Supplier%20Agreement.docx)
+     -  [Contoso-Lieferantenvereinbarung](https://go.microsoft.com/fwlink/?linkid=2268925)
+     -  [Tailwind Traders-Lieferantenvereinbarung](https://go.microsoft.com/fwlink/?linkid=2269128)
+     -  [Wide World Importers-Lieferantenvereinbarung](https://go.microsoft.com/fwlink/?linkid=2269129)
 2.  Nachdem die Downloads abgeschlossen sind, öffnen Sie den **Datei-Explorer**, und kopieren Sie die Dateien aus Ihrem **Downloads**-Ordner in einen Ordner in Ihrem OneDrive-Konto.
 3.  In dieser Übung greifen Sie über die Liste der zuletzt verwendeten Dateien auf die Dokumente zu. Um die Dateien in der Liste der zuletzt verwendeten Dateien anzuzeigen, öffnen Sie jedes Dokument, und schließen Sie es wieder. Öffnen und schließen Sie die drei Dateien in Ihrem OneDrive-Konto.
 4.  Öffnen Sie in **Microsoft 365** **Microsoft Word**, und öffnen Sie dann ein neues leeres Dokument.

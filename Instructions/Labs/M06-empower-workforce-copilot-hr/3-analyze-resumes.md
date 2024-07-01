@@ -13,10 +13,10 @@ Als Leiter der Personalverwaltung am Graphic Design Institute haben Sie den Eins
 Am Ende der vorherigen Übung haben Sie die von Ihnen erstellte Datei mit der Stellenbeschreibung gespeichert. Sie wurden angewiesen, die Datei unter **Graphic Design Institute - Job descriptions.docx** zu speichern. Wenn Sie sie unter einem anderen Dateinamen gespeichert haben, merken Sie sich den verwendeten Namen, damit Sie die Datei in dieser Übung finden können. Führen Sie in dieser Übung die folgenden Schritte aus, damit Copilot in Word die vier erhaltenen Lebensläufe mit dieser Stellenbeschreibungsdatei vergleicht, um zu ermitteln, welcher Bewerber am besten qualifiziert ist:
 
 1.  Wählen Sie die folgenden Links aus, um die bisher erhaltenen Lebensläufe herunterzuladen:
-     -  [Resume - Patti Fernandez](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Patti%20Fernandez.docx)
-     -  [Resume - Nestor Wilke](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Nestor%20Wilke.docx)
-     -  [Resume - Holly Dickson](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Holly%20Dickson.docx)
-     -  [Resume - Alex Wilber](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Alex%20Wilber.docx)
+     -  [Resume - Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
+     -  [Resume - Nestor Wilke](https://go.microsoft.com/fwlink/?linkid=2268930)
+     -  [Resume - Holly Dickson](https://go.microsoft.com/fwlink/?linkid=2268828)
+     -  [Resume - Alex Wilber](https://go.microsoft.com/fwlink/?linkid=2269127)
 2.  Nachdem die Downloads abgeschlossen sind, öffnen Sie den **Datei-Explorer**, und kopieren Sie die Dateien aus dem Ordner **Downloads** in einen Ordner in Ihrem OneDrive-Konto.
 3.  In dieser Übung greifen Sie über die Liste der zuletzt verwendeten Dateien auf die Dokumente zu. Um die Dateien in der Liste der zuletzt verwendeten Dateien anzuzeigen, öffnen Sie jedes Dokument, und schließen Sie es wieder. Öffnen und schließen Sie die vier Lebenslaufdateien in Ihrem OneDrive-Konto.
 4.  Öffnen Sie in **Microsoft 365** die Anwendung **Microsoft Word**, und öffnen Sie dann ein neues leeres Dokument.

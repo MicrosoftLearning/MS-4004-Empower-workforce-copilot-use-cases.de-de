@@ -17,7 +17,7 @@ Um die Datei in Copilot zu referenzieren, wird in dieser Übung die Datei in der
 
 Führen Sie die folgenden Schritte aus, um Ihren Projektplan mit Microsoft Copilot in Bing zu erstellen:
 
-1.  Wählen Sie den folgenden Link aus, um eine Kopie des [Contoso CipherGuard-Produktspezifikationsberichts](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20Product%20Specification.docx) herunterzuladen.
+1.  Wählen Sie den folgenden Link aus, um eine Kopie des [Contoso CipherGuard-Produktspezifikationsberichts](https://go.microsoft.com/fwlink/?linkid=2269123) herunterzuladen.
 2.  Nachdem der Download abgeschlossen ist, öffnen Sie den **Datei-Explorer**, und verschieben Sie die Datei aus Ihrem **Downloads**-Ordner in einen Ordner in Ihrem OneDrive-Konto.
 3.  In dieser Übung greifen Sie über die Liste der zuletzt verwendeten Dateien auf das Dokument zu. Um die Datei in der Liste der zuletzt verwendeten Dateien anzuzeigen, öffnen Sie das Dokument, und schließen Sie es wieder.
 4.  Navigieren Sie in **Microsoft Edge** zu Microsoft Bing, indem Sie die folgende URL eingeben: **https://bing.com**
