@@ -49,7 +49,7 @@ Als Vertriebs- und Marketingdirektor bei Contoso, Ltd., müssen Sie Ihrem Vertri
      -  Wenn Copilot diese Aufgabe abgeschlossen hat, geben Sie eine Eingabeaufforderung ein, um die Antwort auf jede der vorgeschlagenen Fragen zu erstellen und die Antworten auf ihre jeweiligen Fragen in den Sprechernotizen der Q&A-Folie hinzuzufügen. Sehen Sie, ob Copilot diese Aufgabe auch ausführen kann.
      -  Wenn Copilot diese Aufgabe nicht abschließen konnte, weist dies darauf hin, dass hieran noch gearbeitet wird. Obwohl Copilot möglicherweise nicht in der Lage ist, alles, was Sie zu diesem Zeitpunkt benötigen, abzuschließen, überprüfen Sie hin und wieder, ob es nun möglich ist. Dieses Szenario ist ein weiteres Beispiel für die bewährte Methode, die Sie in früheren Trainingseinheiten gelernt haben: **Die Einschränkungen von Copilot verstehen.**
         
-        Wenn Copilot der Q&A-Folie keine Fragen hinzufügen konnte, probieren Sie diese Problemumgehung aus. Geben Sie die folgende Eingabeaufforderung ein, die zum Erstellen einer Liste von Fragen auffordert:
+    -    Wenn Copilot der Q&A-Folie keine Fragen hinzufügen konnte, probieren Sie diese Problemumgehung aus. Geben Sie die folgende Eingabeaufforderung ein, die zum Erstellen einer Liste von Fragen auffordert:
         
         **Welche Art von Fragen könnten die Teilnehmer während der Q&A-Sitzung fragen**?
         
