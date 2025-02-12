@@ -1,14 +1,14 @@
-# Erstellen Sie eine Stellenbeschreibung mit Copilot in Word
+# Erstellen einer Stellenbeschreibung mit Microsoft 365 Copilot in Word
 ---
-Copilot in Word ist ein KI-basierter Schreibassistent, der Personalfachleuten dabei helfen kann, ihre Arbeitsprozesse zu optimieren und ihre Produktivität zu verbessern. Copilot kann Personalfachleuten auf verschiedene Arten unterstützen, einschließlich automatisierter Lebenslaufprüfung, Unterstützung bei der Stellenbeschreibung, effizientes Onboarding, Mitarbeiterfeedbackanalyse und vieles mehr.
+Microsoft 365 Copilot in Word ist ein KI-gesteuerter Schreibassistent, der Personalfachleuten dabei helfen kann, ihre Arbeitsprozesse zu optimieren und ihre Produktivität zu verbessern. Copilot kann Personalfachleuten auf verschiedene Arten unterstützen, einschließlich automatisierter Lebenslaufprüfung, Unterstützung bei der Stellenbeschreibung, effizientes Onboarding, Mitarbeiterfeedbackanalyse und vieles mehr.
 
 Copilot kann z. B. die ersten Phasen des Lebenslauf-Screenings automatisieren und Personalfachleuten dabei helfen, die am besten geeigneten Kandidaten aus großen Bewerberpools schnell zu identifizieren. Copilot kann auch die Handhabung von Onboarding-Dokumenten vereinfachen, von der Vertragsgenerierung bis hin zur Richtlinienverteilung, wodurch der Onboarding-Prozess effizienter wird. Darüber hinaus kann es helfen, angepasste Onboarding-Pläne für Neueinstellungen zu erstellen, um sicherzustellen, dass sie sich von Tag 1 an willkommen und gut informiert fühlen.
 
-Copilot in Word kann auch Mitarbeiterfeedback und Umfragen analysieren und Personalfachleuten Einblicke in die Mitarbeiterzufriedenheit und Verbesserungsbereiche bieten. Es kann maßgeschneiderte Trainings- und Entwicklungsprogramme für Mitarbeiter vorschlagen, ihre Fähigkeiten und Karriereentwicklung verbessern.
+Microsoft 365 Copilot in Word kann auch Mitarbeiterfeedback und Umfragen analysieren und Personalfachleuten Einblicke in die Mitarbeiterzufriedenheit und Verbesserungsbereiche bieten. Es kann maßgeschneiderte Trainings- und Entwicklungsprogramme für Mitarbeiter vorschlagen, ihre Fähigkeiten und Karriereentwicklung verbessern.
 
 ### Übung
 
-Als Leiter der Personalverwaltung am Graphic Design Institute haben Sie den Einstellungsprozess für einen neuen Senior Animation Designer begonnen. Ihre Mitarbeiter haben ein Dokument erstellt, in dem alle Zuständigkeiten für diese Rolle beschrieben werden. Sie möchten jetzt Copilot in Word verwenden, um eine Stellenbeschreibung basierend auf den Zuständigkeiten in diesem Dokument zu erstellen.
+Als Leiter der Personalverwaltung am Graphic Design Institute haben Sie den Einstellungsprozess für einen neuen Senior Animation Designer begonnen. Ihre Mitarbeiter haben ein Dokument erstellt, in dem alle Zuständigkeiten für diese Position beschrieben werden. Sie möchten jetzt Microsoft 365 Copilot in Word verwenden, um eine Stellenbeschreibung basierend auf den Zuständigkeiten in diesem Dokument zu erstellen.
 
 1.  Wählen Sie den folgenden Link aus, um das Dokument [Graphic Design Institute - Design Team Zuständigkeiten](https://go.microsoft.com/fwlink/?linkid=2268824) herunterzuladen.
 2.  Nachdem der Download abgeschlossen ist, verschieben Sie die Datei in Ihr OneDrive-Konto, und öffnen und schließen Sie die Datei, um sie in die Liste der zuletzt verwendeten Dateien (Most Recently Used, MRU) aufzunehmen.
@@ -27,7 +27,7 @@ Als Leiter der Personalverwaltung am Graphic Design Institute haben Sie den Eins
     **Dieser Entwurf zur Stellenbeschreibung ist besser, aber es fehlen immer noch Details, die ich aufführen möchte. Im Dokument "Zuständigkeiten" wurden detaillierte Zuständigkeiten für jeden Bereich beschrieben. Fügen Sie diese Details in diese Stellenbeschreibung ein. Seien Sie so spezifisch wie möglich**.
 10. Nachdem Sie die Ergebnisse überprüft haben, kommt Ihnen vielleicht der Satz "Pass auf, was du dir wünscht" in den Sinn. Die Liste der Zuständigkeiten in diesem dritten Entwurf ist lang; tatsächlich, vielleicht zu lang für ein arbeitsfähiges Dokument zur Stellenbeschreibung. An diesem Punkt möchten Sie die vorherigen Entwürfe überprüfen, um festzustellen, ob die früheren vielleicht diesem längeren vorzuziehen sind. Notieren Sie sich im Copilot-Fenster direkt über dem Eingabeaufforderungsfeld den Entwurf der aktuellen Version des Dokuments. In diesem Fall befinden Sie sich im Entwurf 3 von 3. Um einen früheren Entwurf zu überprüfen, wählen Sie den Rückwärtspfeil (&lt;) aus, um zum zweiten und dann zum ersten Entwurf zurückzukehren. Verwenden Sie die Vorwärtspfeile (&gt;), um zu den neuesten Entwürfen zurückzukehren.
     
-    ![Screenshot des Bereichs von Entwürfen im Copilot-Fenster in Word, wobei der aktuelle Entwurf Nr. 3 von 3 ist.](../media/copilot-word-drafts-db99d003.png)
+    ![Screenshot des Bereichs von Entwürfen im Microsoft 365 Copilot-Fenster in Word, wobei der aktuelle Entwurf Nr. 3 von 3 ist.](../media/copilot-word-drafts-db99d003.png)
     
     
     Gehen Sie in diesem Fall zurück zum zweiten Entwurf. Überprüfen Sie erneut die Liste der Zuständigkeiten. Obwohl sie nicht so umfangreich ist wie die Liste im dritten Entwurf, sieht sie sauberer aus und bietet dennoch ausreichende Informationen für einen Kandidaten, um zu verstehen, was von ihnen in dieser Rolle des Senior Animation Designer erwartet wird. Sie entscheiden, dass der zweite Entwurf dem endgültigen Entwurf vorzuziehen ist, und entscheiden sich, diesen Entwurf zu verwenden. Wählen Sie im Fenster "Copilot" die Schaltfläche **Beibehalten** aus.

@@ -1,8 +1,8 @@
-# Zusammenfassen von Finanzergebnissen mithilfe von Copilot in Word
+# Zusammenfassen von Finanzergebnissen mithilfe von Microsoft 365 Copilot in Word
 ---
-In der vorherigen Übung haben Sie Copilot in Word verwendet, um eine Datentabelle zu analysieren und dann einen Bericht zu erstellen, der die Informationen in dieser Datei zusammenfasst In dieser Übung öffnen Sie eine Datei mit einer Tabelle mit den Finanzergebnissen der letzten fünf Jahre eines Unternehmens, und Sie bitten Copilot in Word, die in der Tabelle angezeigten Finanzergebnisse zusammenzufassen.
+In der vorherigen Übung haben Sie Microsoft 365 Copilot in Word verwendet, um eine Datentabelle zu analysieren und dann einen Bericht zu erstellen, der die Informationen in dieser Datei zusammenfasst In dieser Übung öffnen Sie eine Datei mit einer Tabelle mit den Finanzergebnissen der letzten fünf Jahre eines Unternehmens, und Sie bitten Microsoft 365 Copilot in Word, die in der Tabelle angezeigten Finanzergebnisse zusammenzufassen.
 
-Während in der vorherigen Übung ein Bericht für Sie basierend auf einer Datei erstellt wurde, die Sie im Prompt angefügt haben, wird in dieser Übung eine Summierung im Copilot-Bereich einer von Ihnen geöffneten Datei angezeigt. Es liegt an Ihnen, ob Sie die Ergebnisse kopieren und in das Dokument einfügen möchten. Zweck dieser Übung ist es, die Flexibilität von Copilot in Word bei der Überprüfung und Zusammenfassung von Dokumenten – in diesem Fall von Dokumenten mit Finanzergebnissen – zu veranschaulichen.
+Während in der vorherigen Übung ein Bericht für Sie basierend auf einer Datei erstellt wurde, die Sie im Prompt angefügt haben, wird in dieser Übung eine Summierung im Copilot-Bereich einer von Ihnen geöffneten Datei angezeigt. Es liegt an Ihnen, ob Sie die Ergebnisse kopieren und in das Dokument einfügen möchten. Zweck dieser Übung ist es, die Flexibilität von Microsoft 365 Copilot in Word bei der Überprüfung und Zusammenfassung von Dokumenten – in diesem Fall von Dokumenten mit Finanzergebnissen – zu veranschaulichen.
 
 ### Übung
 
@@ -12,7 +12,7 @@ Als CFO von Adatum Corporation, einem US-amerikanischen Kunststoffhersteller, m�
  -  Sie möchten das Unternehmen in die richtige Richtung lenken und sicherstellen, dass es rentabel bleibt und seine operativen Ziele erfüllen kann.
  -  Sie möchten die Leistung messen, indem Sie den prozentualen Anstieg oder Rückgang der Ausgaben und Verkäufe auswerten. Dies ermöglicht es Ihnen, die operative Leistung zu messen und Ihre Strategien anzupassen.
 
-Dazu öffnen Sie ein Word-Dokument, das von Ihrem Buchhaltungsteam vorbereitet wurde und eine Zusammenfassung der jährlichen Finanzleistung des Unternehmens in den letzten fünf Jahren enthält. Anschließend verwenden Sie Copilot in Word, um die Leistung des Unternehmens während dieser Zeit zusammenzufassen.
+Dazu öffnen Sie ein Word-Dokument, das von Ihrem Buchhaltungsteam vorbereitet wurde und eine Zusammenfassung der jährlichen Finanzleistung des Unternehmens in den letzten fünf Jahren enthält. Anschließend verwenden Sie Microsoft 365 Copilot in Word, um die Leistung des Unternehmens während dieser Zeit zusammenzufassen.
 
 1.  Wählen Sie den folgenden Link aus, um [Adatum 5 Year Financial Results](https://go.microsoft.com/fwlink/?linkid=2268923) (Finanzergebnisse der letzten 5 Jahre von Adatum) herunterzuladen.
 2.  Nachdem der Download abgeschlossen ist, öffnen Sie den **Datei-Explorer**, und verschieben Sie die Datei aus dem Ordner **Downloads** in einen Ordner in Ihrem OneDrive-Konto.

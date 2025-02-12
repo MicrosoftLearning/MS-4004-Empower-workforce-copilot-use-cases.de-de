@@ -1,5 +1,5 @@
 
-# Erstellen einer Projektplanpräsentation mit Copilot in PowerPoint
+# Erstellen einer Projektplanpräsentation mit Microsoft 365 Copilot in PowerPoint
 ---
 Die Beherrschung der Verwendung von Copilot für PowerPoint ist eine strategische Qualifikation für IT-Fachleute, welche die Wirkung ihrer Präsentationen steigern wollen. In der Unternehmenswelt ist eine effektive Kommunikation durch überzeugende Foliendecks von größter Bedeutung. Copilot für PowerPoint dient als intelligenter Projektmitarbeiter und bietet Echtzeitvorschläge und Verbesserungen, während IT-Fachleute ihre Präsentationen gestalten. Dieses Tool beschleunigt nicht nur den Erstellungsprozess, sondern stellt auch sicher, dass die Inhalte ansprechend und klar sind und bei der Zielgruppe gut ankommen.
 
@@ -10,15 +10,15 @@ IT-Fachleute müssen aus verschiedenen Gründen PowerPoint-Präsentationen erste
  -  Erläutern komplexer technischer Konzepte für nicht technische Zielgruppen, z. B. Projektbeteiligte oder Investoren.
  -  Präsentieren ihrer Arbeit oder bewerben ihrer Dienstleistungen bei potenziellen Kunden.
 
-Mit Copilot in PowerPoint können Sie eine Präsentation aus einem vorhandenen Word-Dokument erstellen. Wenn Sie Copilot in PowerPoint den Link zu Ihrem Word-Dokument bereitstellen, kann er Folien generieren, Layouts anwenden und ein Design für Sie auswählen.
+Mit Microsoft 365 Copilot in PowerPoint können Sie eine Präsentation aus einem vorhandenen Word-Dokument erstellen. Wenn Sie Microsoft 365 Copilot in PowerPoint den Link zu Ihrem Word-Dokument bereitstellen, kann es Folien generieren, Layouts anwenden und ein Design für Sie auswählen.
 
 In der vorherigen Übung haben Sie einen Projektplan zum Installieren eines Netzwerksicherheitsprodukts erstellt. Anschließend haben Sie Copilot gebeten, einen Produktspezifikationsbericht für das Netzwerksicherheitsprodukt zu analysieren und den Projektplan mit Informationen aus dem Produktspezifikationsbericht zu aktualisieren.
 
-In dieser Übung verwenden Sie Copilot in PowerPoint, um eine Folienpräsentation basierend auf dem Projektplan zu erstellen. Sie möchten diese Präsentation nutzen, um Ihren IT-Mitarbeitern und schließlich der Unternehmensleitung den Projektplan zu erläutern.
+In dieser Übung verwenden Sie Microsoft 365 Copilot in PowerPoint, um eine Folienpräsentation basierend auf dem Projektplan zu erstellen. Sie möchten diese Präsentation nutzen, um Ihren IT-Mitarbeitern und schließlich der Unternehmensleitung den Projektplan zu erläutern.
 
 ### Übung
 
-Als IT-Leiter bei der Adatum Corporation planen Sie die Installation des Contoso CipherGuard Sentinel X7-Netzwerksicherheitsprodukts im Unternehmensnetzwerk von Adatum. In der vorherigen Übung haben Sie Microsoft Copilot zum Erstellen eines Installationsprojektplans verwendet. Sie möchten jetzt Copilot in PowerPoint verwenden, um eine Folienpräsentation basierend auf diesem Plan zu erstellen. Sie müssen den Projektplan ihren IT-Mitarbeitern und schließlich der Unternehmensleitung präsentieren. Führen Sie die folgenden Schritte aus, um den Foliensatz zu erstellen, den Sie in Ihrer Präsentation verwenden möchten.
+Als IT-Leiter bei der Adatum Corporation planen Sie die Installation des Contoso CipherGuard Sentinel X7-Netzwerksicherheitsprodukts im Unternehmensnetzwerk von Adatum. In der vorherigen Übung haben Sie Business Chat zum Erstellen eines Installationsprojektplans verwendet. Sie möchten jetzt Microsoft 365 Copilot in PowerPoint verwenden, um eine Folienpräsentation basierend auf diesem Plan zu erstellen. Sie müssen den Projektplan ihren IT-Mitarbeitern und schließlich der Unternehmensleitung präsentieren. Führen Sie die folgenden Schritte aus, um den Foliensatz zu erstellen, den Sie in Ihrer Präsentation verwenden möchten.
 
 1.  Wenn Sie die vorherige Übung abgeschlossen und eine **Contoso CipherGuard-Projektplan.docx**-Datei erstellt haben, stellen Sie sicher, dass Sie diese in Ihr OneDrive-Konto kopiert haben, und fahren Sie dann mit dem nächsten Schritt fort. Wenn Sie diesen Projektplan jedoch in der vorherigen Übung nicht erstellen konnten, wählen Sie den folgenden Link aus, um einen [Contoso CipherGuard-Projektplan](https://go.microsoft.com/fwlink/?linkid=2268924) herunterzuladen, der für Sie erstellt wurde. Nachdem der Download der Datei abgeschlossen ist, kopieren Sie diese in Ihr OneDrive-Konto.
 2.  An diesem Punkt sollten Sie eine **Contoso CipherGuard-Projektplan.docx**-Datei in Ihrem OneDrive-Konto gespeichert haben. Öffnen Sie die Datei, um zu überprüfen, ob alles in Ordnung ist, und schließen Sie dann die Datei wieder. Dadurch wird auch sichergestellt, dass sie in der Dateiliste „Zuletzt verwendet“ (Most Recently Used, MRU) angezeigt wird.
@@ -26,8 +26,8 @@ Als IT-Leiter bei der Adatum Corporation planen Sie die Installation des Contoso
 4.  Wählen Sie auf der **Microsoft 365**-Homepage im Navigationsbereich auf der linken Seite das **PowerPoint**-Symbol aus.
 5.  Öffnen Sie in **PowerPoint** eine neue leere Präsentation.
 6.  Wählen Sie auf der rechten Seite des Menüs die Option **Copilot** aus.
-7.  Im angezeigten Bereich **Copilot** stehen Ihnen mehrere vordefinierte Eingabeaufforderungen zur Auswahl zur Verfügung. Wählen Sie den Prompt **Präsentation aus Datei erstellen** aus.
-8.  Im Prompt unten im Bereich **Copilot** gibt Copilot automatisch den Text ein: **Präsentation aus Datei erstellen/**. Der Schrägstrich ist der universelle Copilot-Indikator, um einen Link zu einer Datei einzugeben. In diesem Fall wird Copilot angewiesen, das Fenster **Vorschläge** zu öffnen, in dem drei der zuletzt verwendeten Dateien angezeigt werden.
+7.  Im angezeigten Bereich **Copilot** stehen Ihnen mehrere vordefinierte Eingabeaufforderungen zur Auswahl zur Verfügung. Wählen Sie die Aufforderung **Präsentation aus Datei erstellen** aus.
+8.  Im Prompt unten im Bereich **Copilot** gibt Copilot automatisch den Text ein: **Präsentation erstellen aus Datei /**. Der Schrägstrich ist der universelle Microsoft 365 Copilot-Indikator, um einen Link zu einer Datei einzugeben. In diesem Fall wird Copilot angewiesen, das Fenster **Vorschläge** zu öffnen, in dem drei der zuletzt verwendeten Dateien angezeigt werden.
      -  Wenn Ihre Datei hier angezeigt wird, wählen Sie diese jetzt aus, und fahren Sie mit dem nächsten Schritt fort.
      -  Wenn die Datei nicht eine der drei angezeigten ist, wählen Sie in der oberen rechten Ecke des Fensters **Vorschläge** den rechten Pfeil (**&gt;**) aus, um eine erweiterte MRU-Dateiliste anzuzeigen. Wenn die Datei hier angezeigt wird, wählen Sie diese jetzt aus, und fahren Sie mit dem nächsten Schritt fort.
      -  Wenn Ihre Datei in der erweiterten MRU-Liste nicht angezeigt wird, müssen Sie den Link zum Bericht kopieren und in das Promptfeld einfügen. Dazu gehen Sie wie folgt vor:

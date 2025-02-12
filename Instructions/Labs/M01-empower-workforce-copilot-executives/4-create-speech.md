@@ -1,5 +1,5 @@
 
-# Erstellen einer Rede mit Copilot in Word
+# Erstellen einer Rede mit Microsoft 365 Copilot in Word
 ---
 Die Beherrschung von Copilot für Word kann für Führungskräfte und leitende Angestellte von entscheidender Bedeutung sein, da sie damit in der Lage sind, wirkungsvolle Mitteilungen wie Reden, Memos und organisationsweite E-Mails zu verfassen. Effektive Kommunikation ist für Führungskräfte und leitende Angestellte von entscheidender Bedeutung, wenn es darum geht, anderen Führungskräften, Mitarbeitenden und anderen Interessengruppen klare Botschaften zu vermitteln.
 
@@ -9,7 +9,7 @@ Mit Copilot for Word verschaffen Sie sich einen Wettbewerbsvorteil, indem Sie Ih
 
 ### Verknüpfen von Dateien in Copilot
 
-In dieser Übung weisen Sie Copilot in Word an, eine Rede für Sie zu schreiben, die auf Informationen basiert, die in einem Word-Dokument gespeichert sind. Wie aus früheren Schulungen bekannt, muss sich eine Datei wie diese zwingend in einem OneDrive-Konto befinden, wenn Sie sie mit einem Copilot-Prompt verknüpfen möchten. Eine Verknüpfung mit einer lokal gespeicherten Datei auf Ihrem PC ist nicht möglich.
+In dieser Übung weisen Sie Microsoft 365 Copilot in Word an, eine Rede für Sie zu schreiben, die auf Informationen basiert, die in einem Word-Dokument gespeichert sind. Wie aus früheren Schulungen bekannt, muss sich eine Datei wie diese zwingend in einem OneDrive-Konto befinden, wenn Sie sie mit einem Copilot-Prompt verknüpfen möchten. Eine Verknüpfung mit einer lokal gespeicherten Datei auf Ihrem PC ist nicht möglich.
 
 Sie können die Datei mit einer der folgenden Methoden mit dem Copilot-Prompt verknüpfen:
 
@@ -23,11 +23,11 @@ In dieser Übung wählen Sie das Dokument aus der MRU-Dateiliste aus.
 
 Stellen wir uns vor, Sie sind ein CTO in einer großen Organisation und haben in den kommenden Tagen eine Besprechung mit anderen Führungskräften aus anderen Teilen Ihrer Organisation. Während dieser Besprechung werden Sie den Status der digitalen Transformation Ihres Unternehmens vorstellen. Ihr Assistent bzw. ihre Assistentin hat Ihnen eine Zusammenfassung der Aktualisierungen zu diesem Aufwand bereitgestellt.  
 
-Sie planen die Verwendung von Copilot, um Ihre Sprache basierend auf den Informationen im Zusammenfassungsdokument zu schreiben. Diese Übung führt Sie durch eine Reihe von Prompts, die Sie verwenden können, um Copilot in Word Ihre Rede generieren und anschließend anhand Ihrer Änderungsvorschläge aktualisieren zu lassen.
+Sie planen die Verwendung von Copilot, um Ihre Sprache basierend auf den Informationen im Zusammenfassungsdokument zu schreiben. Diese Übung führt Sie durch eine Reihe von Prompts, mit denen Sie Microsoft 365 Copilot in Word Ihre Rede generieren lassen und diese dann auf der Grundlage Ihrer Änderungsvorschläge aktualisieren können.
 
 In dieser Übung wird die Liste der zuletzt verwendeten Dateien verwendet, um in Copilot auf die Datei zu verweisen.
 
-Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Copilot in Word zu generieren:
+Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Microsoft 365 Copilot in Word zu generieren:
 
 1. Klicken Sie auf den folgenden Link, um eine Kopie von [Digital Transformation Summary.docx](https://go.microsoft.com/fwlink/?linkid=2277632) herunterzuladen.
 
@@ -64,7 +64,7 @@ Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Copilot in Wor
 
 14. Copilot schreibt den ausgewählten Text für Sie um. Nachdem Sie den Text durchgesehen haben, entscheiden Sie, dass die Rede professioneller klingen soll. Wählen Sie im Fenster **Mit Copilot erneut generieren** die Option **Ton anpassen**.
 
-    ![Der Screenshot zeigt die Option zum Anpassen des Tonfalls in Copilot in Word.](../media/copilot-word-adjust-tone.png)
+    ![Der Screenshot zeigt die Option zum Anpassen des Tonfalls in Microsoft 365 Copilot in Word.](../media/copilot-word-adjust-tone.png)
 
 15. Wählen Sie aus den Optionen **Professionell** und dann **Erneut generieren**.
 
@@ -72,6 +72,6 @@ Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Copilot in Wor
 
 17. Speichern Sie die Datei in Ihrem OneDrive-Konto unter dem folgenden Dateinamen: **Digital Transformation Speech.docx**. Dieses Dokument wird für die nächsten Übung benötigt.
     
-    > **WICHTIG:** Achten Sie darauf, dass Sie die Datei in OneDrive und nicht auf Ihrem lokalen PC speichern. In der nächsten Übung verwenden Sie Copilot in PowerPoint, um eine Folienpräsentation zu erstellen, die auf diesem Dokument basiert. Das Dokument muss sich in OneDrive befinden, damit Copilot darauf zugreifen kann.
+    > **WICHTIG:** Achten Sie darauf, dass Sie die Datei in OneDrive und nicht auf Ihrem lokalen PC speichern. In der nächsten Übung verwenden Sie Microsoft 365 Copilot in PowerPoint, um eine Folienpräsentation zu erstellen, die auf diesem Dokument basiert. Das Dokument muss sich in OneDrive befinden, damit Copilot darauf zugreifen kann.
 
 18. Schließen Sie in Ihrem Microsoft Edge-Browser den Tab, der dieses Dokument enthält.

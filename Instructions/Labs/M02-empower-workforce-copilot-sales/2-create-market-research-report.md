@@ -1,17 +1,17 @@
 
-# Erstellen eines Marktforschungsberichts mit Copilot in Loop
+# Erstellen eines Marktforschungsberichts mit Microsoft 365 Copilot in Loop
 ---
 Microsoft Loop wurde für die moderne Zusammenarbeit entwickelt. Es ermöglicht Vertriebsmitarbeitern, Inhalte mit ihren Teams in Echtzeit zu erstellen, freizugeben und gemeinsam an Inhalten zu arbeiten. Loop basiert auf Microsoft 365 und ist in andere Microsoft-Apps wie Word, Excel und Teams integriert.
 
-Microsoft Copilot in Loop ist ein KI-Assistent, der Ihnen bei Brainstorming, Inhaltsentwürfen und mehr helfen kann. Er kann die Produktivität in verschiedenen Anwendungen verbessern, indem er z. B. Entwurfstexte und Tabellen erstellt, Code für Tech-Projekte generieren und sogar schnell Fragen beantworten.
+Microsoft 365 Copilot in Loop ist ein KI-Assistent, der Ihnen bei Brainstorming, Inhaltsentwürfen und mehr helfen kann. Er kann die Produktivität in verschiedenen Anwendungen verbessern, indem er z. B. Entwurfstexte und Tabellen erstellt, Code für Tech-Projekte generieren und sogar schnell Fragen beantworten.
 
-In dieser Schulungsübung verwenden Sie Copilot in Loop, um einen potenziellen neuen Absatzmarkt für die Produkte Ihres Unternehmens zu recherchieren und einen Marktforschungsbericht zu erstellen, der die Ergebnisse beschreibt. Anschließend bitten Sie ihn, das Format des Berichts zu ändern, indem Sie den Inhalt in eine Tabelle einfügen. Sie bitten sie auch, eine endgültige Empfehlung zu geben, ob Ihr Unternehmen in diesen Markt einsteigen soll.
+In dieser Schulungsübung verwenden Sie Microsoft 365 Copilot in Loop, um einen potenziellen neuen Absatzmarkt für die Produkte Ihres Unternehmens zu recherchieren und einen Marktforschungsbericht zu erstellen, der die Ergebnisse beschreibt. Anschließend bitten Sie ihn, das Format des Berichts zu ändern, indem Sie den Inhalt in eine Tabelle einfügen. Sie bitten sie auch, eine endgültige Empfehlung zu geben, ob Ihr Unternehmen in diesen Markt einsteigen soll.
 
 ### Übung
 
-Sie sind VP of Sales für VanArsdel Ltd. VanArsdel ist ein OEM von Kunststoffkomponenten, deren Hauptmarkt die Landwirtschaftsgeräteindustrie ist. Die Geschäftsleitung ist jedoch daran interessiert, möglicherweise in den Automobilmarkt einzusteigen. Angesichts des starken Wettbewerbs bestehender Kunststoffhersteller, die diesen Sektor bereits monopolisieren, müssen Sie ermitteln, ob VanArsdel sich dort behaupten kann. Sie möchten Copilot in Loop verwenden, um den Automobilmarkt zu erforschen, um zu bestimmen, ob VanArsdel erfolgreich sein kann, wenn es diesen Schritt geht.
+Sie sind VP of Sales für VanArsdel Ltd. VanArsdel ist ein OEM von Kunststoffkomponenten, deren Hauptmarkt die Landwirtschaftsgeräteindustrie ist. Die Geschäftsleitung ist jedoch daran interessiert, möglicherweise in den Automobilmarkt einzusteigen. Angesichts des starken Wettbewerbs bestehender Kunststoffhersteller, die diesen Sektor bereits monopolisieren, müssen Sie ermitteln, ob VanArsdel sich dort behaupten kann. Sie möchten Microsoft 365 Copilot in Loop verwenden, um den Automobilmarkt zu erforschen, um zu bestimmen, ob VanArsdel erfolgreich sein kann, wenn es diesen Schritt geht.
 
-1.  Wählen Sie in **Microsoft 365** **Loop** aus, wenn es im linken Navigationsbereich angezeigt wird. Wählen Sie andernfalls **Apps** aus, scrollen Sie auf der Seite **Apps** nach unten zu **Loop**, und wählen Sie diese Option aus.
+1.  Wählen Sie in **Microsoft 365** die Option **Loop** aus, wenn sie im linken Navigationsbereich angezeigt wird. Wählen Sie andernfalls **Apps** aus, scrollen Sie auf der Seite **Apps** nach unten zu **Loop**, und wählen Sie diese Option aus.
 2.  Wählen Sie in **Microsoft Loop** zum Erstellen eines neuen Arbeitsbereichs für dieses Projekt in der rechten oberen Ecke der Seite **+** aus.
 3.  Geben Sie im Fenster **Erstellen eines neuen Arbeitsbereichs** **VanArsdel-Recherche** als Name für den Arbeitsbereich ein und wählen Sie dann entweder die Schaltfläche **Weiter** oder **Erstellen** aus, die angezeigt wird (je nach Version von Loop).
 4.  Wählen Sie im Fenster **Arbeitsbereich hinzufügen** (je nach Version des Loops kann es auch **Arbeitsbereichsumschalter** heißen) die Option **Arbeitsbereich erstellen** aus.
