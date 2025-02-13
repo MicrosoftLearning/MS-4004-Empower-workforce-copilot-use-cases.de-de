@@ -1,4 +1,4 @@
-# Zusammenfassen von Chat- und Kanal-Threads mit Copilot in Teams
+# Zusammenfassen von Chat- und Kanal-Threads mit Microsoft 365 Copilot in Teams
 ---
 Das Besitzen von Kenntnissen in Copilot für Teams ist eine wichtige Fähigkeit für Führungskräfte, die die Zusammenarbeit optimieren und umsetzbare Ergebnisse in ihren Teams fördern möchten. In der schnelllebigen Welt der Kommunikation ist es eine zeitaufwändige Aufgabe, Chat- und Kanalthreads zu durchsuchen, um wichtige Aktionselemente herauszufiltern. Copilot für Teams revolutioniert diesen Prozess durch intelligente Analyse von Unterhaltungen und Erstellen einer präzisen Liste von Aktionselementen.
 
@@ -6,7 +6,7 @@ Führungskräfte oder leitende Angestellte, die diese Funktion nutzen, sparen ni
 
 ### Übung
 
-Wenn Sie Copilot in Teams verwenden, um die Details eines bestimmten Chats oder Kanals zu untersuchen, kann Copilot eine Liste vordefinierter, häufig verwendeter Eingabeaufforderungen zur Auswahl bereitstellen. Wenn Sie eine Eingabeaufforderung aus dieser Liste auswählen, müssen Sie sie nicht manuell eingeben. Außerdem werden Vorschläge zu anderen Eingabeaufforderungen bereitgestellt, die Sie beim Arbeiten in einem Chat oder Kanal verwenden können.
+Wenn Sie Microsoft 365 Copilot in Teams verwenden, um die Details eines bestimmten Chats oder Kanals zu untersuchen, kann Copilot eine Liste vordefinierter, häufig verwendeter Prompts zur Auswahl bereitstellen. Wenn Sie eine Eingabeaufforderung aus dieser Liste auswählen, müssen Sie sie nicht manuell eingeben. Außerdem werden Vorschläge zu anderen Eingabeaufforderungen bereitgestellt, die Sie beim Arbeiten in einem Chat oder Kanal verwenden können.
 
 Wenn Sie im Bereich **Copilot** die Option **Weitere Eingabeaufforderungen** auswählen, zeigt Copilot ein Dropdownmenü mit den vordefinierten Eingabeaufforderungen an. Es gibt zwei Arten vordefinierter Eingabeaufforderungen, die verfügbar sind:
 
@@ -23,17 +23,17 @@ Wenn Sie im Bereich **Copilot** die Option **Weitere Eingabeaufforderungen** aus
 
 > **WICHTIG:** Die vordefinierten Eingabeaufforderungen, die Copilot anzeigt, können je nach Inhalt variieren, der im ausgewählten Chat oder Kanal verfügbar ist.
 
-Copilot in Teams verwendet die folgenden Richtlinien, um zu bestimmen, welche Eingabeaufforderungen für einen bestimmten Chat oder Kanal angezeigt werden sollen:
+Microsoft 365 Copilot in Teams verwendet die folgenden Richtlinien, um zu bestimmen, welche Prompts für einen bestimmten Chat oder Kanal angezeigt werden sollen:
 
- -  Copilot enthält die Eingabeaufforderung "Besprechung rekapitulieren" für 24 Stunden, nachdem ein Besprechungstranskript im Chat verfügbar gemacht wurde.
+ -  Microsoft 365 Copilot enthält den Prompt „Besprechung rekapitulieren“ für 24 Stunden, nachdem ein Besprechungsprotokoll im Chat verfügbar gemacht wurde.
  -  Copilot enthält nur die zeitgebundenen Eingabeaufforderungen ("Highlights aus der Vergangenheit...") und nicht zeitgebundene Eingabeaufforderungen ("Entscheidungen/offene Elemente"), wenn genügend Inhalt im Zeitrahmen vorhanden ist, um sie zu garantieren.
  -  Copilot zeigt keine Eingabeaufforderungen für einen Chat an, wenn am letzten Tag nicht genügend Inhalte vorhanden sind. In diesem Fall zeigt Copilot die folgende Meldung an, wenn Sie **Weitere Eingabeaufforderungen** auswählen: *Sie können Eingabeaufforderungen verwenden, wenn im Chat neue Inhalte vorhanden sind. In der Zwischenzeit kann Copilot Ihre Fragen immer noch beantworten.*
 
 > **HINWEIS:** Wenn ein Chat oder Kanal nicht über genügend Inhalte verfügt, um die Verwendung von Copilot zu garantieren, wird das Symbol "Copilot" nicht angezeigt, wenn Sie den Chat oder Kanal auswählen.
 
-#### Verwenden von Copilot in einem Teams-Chat
+#### Verwenden von Microsoft 365 Copilot in einem Teams-Chat
 
-Als Führungskraft in Ihrer Organisation möchten Sie Copilot in Microsoft Teams-Chat und -Kanälen verwenden, um schnell auf Unterhaltungen reagieren zu können. In dieser Übung soll Copilot die wichtigsten Punkte aus den letzten 30 Tagen für einen bestimmten Chat zusammenfassen. Sie beginnen mit einer der vordefinierten Eingabeaufforderungen von Copilot, um diese Informationen zu sammeln. Von dort aus geben Sie eine Reihe von Eingabeaufforderungen ein, um tiefer in die Ergebnisse einzutauchen.
+Als Führungskraft in Ihrer Organisation möchten Sie Microsoft 365 Copilot in Microsoft Teams-Chat und -Kanälen verwenden, um schnell auf Unterhaltungen reagieren zu können. In dieser Übung soll Copilot die wichtigsten Punkte aus den letzten 30 Tagen für einen bestimmten Chat zusammenfassen. Sie beginnen mit einer der vordefinierten Eingabeaufforderungen von Copilot, um diese Informationen zu sammeln. Von dort aus geben Sie eine Reihe von Eingabeaufforderungen ein, um tiefer in die Ergebnisse einzutauchen.
 
 1.  Wählen Sie **Chat** in der Navigationsleiste auf der linken Seite von **Teams** aus, und wählen Sie dann einen Chat aus, der für Sie von besonderem Interesse ist. Wählen Sie für diese erste Aufgabe einen Chat aus, von dem Sie wissen, dass er über mehrere Tage hinweg stattgefunden hat – vielleicht einen Chat aus einer regulären Besprechung.
 
@@ -48,7 +48,7 @@ Als Führungskraft in Ihrer Organisation möchten Sie Copilot in Microsoft Teams
     
     **Diesen Chat zusammenfassen**.
 
-4.  Beachten Sie in der Copilot-Antwort, wie Copilot am Ende jeder Aussage eine Fußnotennummer enthält. Jede Fußnote stellt einen direkten Link zu der hervorgehobenen Aussage bereit. Wählen Sie eine der Fußnoten für ein hervorgehobenes Element aus. Beachten Sie dabei, wie Copilot direkt zu dieser Nachricht im Chatthread scrollt. Mit diesem Feature können Sie schnell zu einer bestimmten Hervorhebung navigieren, ohne manuell durch die Threadsuche scrollen zu müssen. Wiederholen Sie diesen Schritt für ein paar der hervorgehobenen Elemente, um zu sehen, wie wertvoll dieses Feature ist.
+4.  Beachten Sie in der Microsoft 365 Copilot-Antwort, wie Copilot am Ende jeder Aussage eine Fußnotennummer enthält. Jede Fußnote stellt einen direkten Link zu der hervorgehobenen Aussage bereit. Wählen Sie eine der Fußnoten für ein hervorgehobenes Element aus. Beachten Sie dabei, wie Copilot direkt zu dieser Nachricht im Chatthread scrollt. Mit diesem Feature können Sie schnell zu einer bestimmten Hervorhebung navigieren, ohne manuell durch die Threadsuche scrollen zu müssen. Wiederholen Sie diesen Schritt für ein paar der hervorgehobenen Elemente, um zu sehen, wie wertvoll dieses Feature ist.
 
 5.  Möglicherweise möchten Sie oft wissen, was eine bestimmte Person in einem Chatthread gesagt hat. Geben Sie die folgende Eingabeaufforderung ein (ersetzen Sie "Name der Person" durch den Namen der Person), und wählen Sie das Symbol **Senden** aus:
     
@@ -66,7 +66,7 @@ Als Führungskraft in Ihrer Organisation möchten Sie Copilot in Microsoft Teams
 
 11. Überprüfen Sie die getroffenen Entscheidungen. Wählen Sie eine Fußnote für ein bestimmtes Element aus, um direkt zu diesem offenen Element zu scrollen.
 
-12. Sie möchten jetzt Copilot in Microsoft Teams-Chat verwenden, um Ihnen zu helfen, schnell eine bestimmte Unterhaltung zu finden. Dazu planen Sie, eine der vordefinierten Eingabeaufforderungen von Copilot zu verwenden, um eine Zusammenfassung der Besprechung bereitzustellen. Mit diesen Informationen in der Hand planen Sie, eine Reihe von Eingabeaufforderungen einzugeben, um tiefer in die Ergebnisse einzutauchen. Suchen Sie zunächst einen bestimmten Chatthread, der für Sie von Interesse ist, und wählen Sie dann den Chat aus, um ihn zu öffnen.
+12. Sie möchten jetzt Microsoft 365 Copilot in Microsoft Teams-Chat verwenden, um Ihnen zu helfen, schnell eine bestimmte Unterhaltung zu finden. Dazu planen Sie, eine der vordefinierten Eingabeaufforderungen von Copilot zu verwenden, um eine Zusammenfassung der Besprechung bereitzustellen. Mit diesen Informationen in der Hand planen Sie, eine Reihe von Eingabeaufforderungen einzugeben, um tiefer in die Ergebnisse einzutauchen. Suchen Sie zunächst einen bestimmten Chatthread, der für Sie von Interesse ist, und wählen Sie dann den Chat aus, um ihn zu öffnen.
 
 13. Wählen Sie im geöffneten Chatthread das Symbol **Copilot öffnen** in der oberen rechten Ecke des Chats aus.
 
@@ -80,14 +80,14 @@ Als Führungskraft in Ihrer Organisation möchten Sie Copilot in Microsoft Teams
 
 17. Vergleichen Sie die Ergebnisse, die Sie von der vordefinierten Eingabeaufforderung **Besprechung rekapitulieren** erhalten haben, mit den Ergebnissen aus der nicht vordefinierten Eingabeaufforderung **Besprechung zusammenfassen**. Beachten Sie die Unterschiede, die in jeder Antwort generiert wurden.
 
-18. Im vorherigen Chat, an dem Sie gearbeitet haben, haben Sie die vordefinierten Eingabeaufforderungen ausgewählt, die Copilot in Teams gefragt haben: **"Welche Entscheidungen wurden getroffen?"** und **"Was sind die offenen Elemente?"** Anstatt diese vordefinierten Eingabeaufforderungen erneut zu übermitteln, versuchen wir es mit etwas anderem. Geben Sie dieses Mal die folgende Eingabeaufforderung ein, und wählen Sie das Symbol **Senden** aus:
+18. Im vorherigen Chat, an dem Sie gearbeitet haben, haben Sie die vordefinierten Prompts ausgewählt, die Microsoft 365 Copilot in Teams **„Welche Entscheidungen wurden getroffen?“** und **"Was sind die offenen Elemente?"** Anstatt diese vordefinierten Eingabeaufforderungen erneut zu übermitteln, versuchen wir es mit etwas anderem. Geben Sie dieses Mal die folgende Eingabeaufforderung ein, und wählen Sie das Symbol **Senden** aus:
     
 **War jemand bei der Besprechung verärgert?**
 19. Beachten Sie die Antwort von Copilot. Beachten Sie diese Antwort beim Schreiben von Eingabeaufforderungen in Zukunft. Als KI-Tool gibt es bestimmte Einschränkungen für die Fähigkeiten von Copilot.
 
-#### Verwenden von Copilot in einem Teams-Kanal
+#### Verwenden von Microsoft 365 Copilot in einem Teams-Kanal
 
-Copilot in einem Teams-Kanal funktioniert ähnlich wie Copilot in einem Teams-Chat.
+Microsoft 365 Copilot in einem Teams-Kanal funktioniert ähnlich wie Microsoft 365 Copilot in einem Teams-Chat.
 
 1.  Wählen Sie **Teams** in der Navigationsleiste auf der linken Seite von **Teams** aus, und wählen Sie dann einen bestimmten Kanal in einem Team aus.
 

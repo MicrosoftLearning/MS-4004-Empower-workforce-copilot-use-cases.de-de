@@ -1,15 +1,48 @@
+# Lab-Einrichtung:
+
+In diesem Modul erstellen wir Prompts für Microsoft 365 Copilot, die auf Dateien verweisen. Zunächst laden wir alle erforderlichen Dateien auf OneDrive hoch, um sicherzustellen, dass sie im gesamten Lab zugänglich sind.
+
+
+### Hochladen von Dateien in OneDrive
+
+Führen Sie die folgenden Schritte aus, um alle erforderlichen Dateien auf **OneDrive** hochzuladen:
+
+1. Melden Sie sich mit dem Kennwort `Pa55w.rd` beim virtuellen Computer an, der von Ihrem Mandanten-Anbieter bereitgestellt wird, und zwar als lokales **Administrator**-Konto.
+2. Wählen Sie in der Windows-Taskleiste **Microsoft Edge** aus.
+3. Geben Sie in der Adressleiste `https://www.office.com` ein.
+4. Wählen Sie unter **Willkommen bei Microsoft 365** die Option **Anmelden** aus.
+5. Geben Sie beim **Sign-in Prompt** `userx@yourtenant.onmicrosoft.com` ein (Benutzername und Mandant von Ihrem Mandanten bereitgestellt) und wählen Sie **Weiter**.
+6. Geben Sie auf dem Bildschirm **Kennwort eingeben** das Kennwort (vom Mandanten-Anbieter) für das Benutzerkonto ein und wählen Sie dann **Anmelden** aus.
+7. Wenn Sie aufgefordert werden, **Angemeldet zu bleiben**, wählen Sie **Dies nicht mehr anzeigen** und dann **Ja**.
+8. In **Microsoft 365** wählen Sie **Apps**.
+9. Wählen Sie unter **Apps** **OneDrive** aus.
+10. Wählen Sie in **OneDrive** in der oberen linken Ecke **+** (neu hinzufügen) > **Datei hochladen**.
+11. Wählen Sie im **Datei-Explorer** **Dieser PC** > **Lokaler Datenträger (C:)** und öffnen Sie den Ordner **ResourceFiles**.
+12. Markieren Sie alle Dateien im Ordner **ResourceFiles** und wählen Sie dann **Öffnen**, um sie auf **OneDrive** hochzuladen.
+13. Wenn der Upload abgeschlossen ist, sollten Sie unten in der Mitte des Bildschirms **29 Elemente in Meine Dateien hochgeladen** sehen.
+14. Lassen Sie **Edge** geöffnet und gehen Sie zur nächsten Aufgabe über.
+
+### Verweisen auf Dateien in Copilot
+
+Wenn Sie Copilot verwenden, stellen Sie möglicherweise fest, dass einige Dateien in den Vorschlägen nicht sofort verfügbar sind. Dies liegt daran, dass bestimmte Copilot-Erfahrungen nur auf Dateien aus der **Zuletzt verwendet (MRU)**-Liste verweisen, während Sie bei anderen **OneDrive** direkt durchsuchen können. Um sicherzustellen, dass eine Datei in der **MRU**-Liste angezeigt wird, öffnen Sie sie einfach in der entsprechenden Microsoft 365-App, und sie wird automatisch hinzugefügt.
+
+> [!IMPORTANT]
+> Microsoft 365 Copilot kann nur mit Dateien arbeiten, die auf **OneDrive** gespeichert sind. Dateien, die lokal auf Ihrem PC gespeichert sind, müssen auf **OneDrive** für Copilot verschoben werden, um darauf zuzugreifen.
+
+Im Laufe des Moduls haben Sie die Möglichkeit, verschiedene Prompts für diese Dateien auszuprobieren. Sie können mit verschiedenen Ansätzen experimentieren, um Ihre Fähigkeiten mit Copilot zu verbessern.
+
 # Einführung
 ---
-Mithilfe von Copilot für Microsoft 365 können Finanzexperten Zeit und Mühe sparen, ihre Arbeit optimieren und fundierte Entscheidungen basierend auf Datenerkenntnissen treffen. Dieses Modul stattet Finanzexperten mit den Fähigkeiten und Kenntnissen aus, die erforderlich sind, um das KI-gestützte Code-Vervollständigungstool von Copilot zu verwenden, um Ihren Workflow zu optimieren und Ihre Produktivität zu verbessern. Als Finanzfachmann ist Ihre Fähigkeit, Copilot für Microsoft 365 effektiv zu nutzen, entscheidend:
+Mithilfe von Microsoft 365 Copilot können Finanzfachleute Zeit und Mühe sparen, ihre Arbeit optimieren und fundierte Entscheidungen basierend auf Datenerkenntnissen treffen. Dieses Modul stattet Finanzexperten mit den Fähigkeiten und Kenntnissen aus, die erforderlich sind, um das KI-gestützte Code-Vervollständigungstool von Copilot zu verwenden, um Ihren Workflow zu optimieren und Ihre Produktivität zu verbessern. Als Finanzexperte ist Ihre Fähigkeit, Microsoft 365 Copilot effektiv zu nutzen, entscheidend für:
 
  -  **Automatisieren von Finanzaufgaben**: Copilot kann Finanzexperten dabei helfen, sich wiederholende Finanzaufgaben zu automatisieren. So können er beispielsweise bei der Budgetierung, Prognose und sogar bei der Steuervorbereitung helfen.
  -  **Bereitstellen von Erkenntnissen**: Copilot kann Finanzexperten helfen, Erkenntnisse über ihre Finanzdaten zu gewinnen. Beispielsweise kann es Ihnen helfen, Jahresabschlüsse zu analysieren, Trends zu identifizieren und sogar zukünftige Ergebnisse vorherzusagen.
  -  **Verbesserung der Produktivität**: Copilot kann Finanzexperten helfen, Zeit zu sparen, indem manuelle Aufgaben automatisiert werden. So kann er z. B. Dateneingabe, Berichterstellung und sogar Korrekturlesen unterstützen.
  -  **Zusammenarbeit**: Copilot kann Finanzexperten dabei helfen, effektiver zusammenzuarbeiten. Beispielsweise kann er Sie bei der Projektverwaltung, der Teamkommunikation und sogar bei der Dokumentfreigabe unterstützen.
 
-Copilot für Microsoft 365 fungiert als KI-gestützter Schreibassistent. Er versteht den Kontext, schlägt Phrasen vor und hilft bei der Erstellung von Inhalten, was alles die Qualität Ihrer Arbeit verbessern kann. Die Übungen in diesem Use Case-Modul sind darauf ausgelegt, Finanzexperten dabei zu helfen, die folgenden Fähigkeiten zu entwickeln:
+Microsoft 365 Copilot fungiert als KI-gestützter Schreibassistent. Er versteht den Kontext, schlägt Phrasen vor und hilft bei der Erstellung von Inhalten, was alles die Qualität Ihrer Arbeit verbessern kann. Die Übungen in diesem Use Case-Modul sind darauf ausgelegt, Finanzexperten dabei zu helfen, die folgenden Fähigkeiten zu entwickeln:
 
- -  Verwenden Sie Copilot in Outlook, um eine neue E-Mail an den Versicherungsträger des Unternehmens zu erstellen, um die exorbitanten Erhöhungen seiner Krankenversicherungsprämien zu besprechen.
- -  Verwenden Sie Copilot in Excel, um eine Kalkulationstabelle zu analysieren, die projizierten Umsatz für Q1-Marketingkampagnen enthält, und fügen Sie dann neue Berechnungen und Diagramme hinzu, um die Daten zu visualisieren.
- -  Verwenden Sie Copilot in Word, um einen Marketingkampagnenbericht basierend auf der Kalkulationstabelle der Q1-Marketingkampagne des Unternehmens zu erstellen.
- -  Verwenden Sie Copilot in Word, um die Finanzergebnisse eines Unternehmens in den letzten fünf Jahren zusammenzufassen.
+ -  Verwendung von Microsoft 365 Copilot in Outlook, um eine neue E-Mail an den Versicherungsträger des Unternehmens zu erstellen, um die exorbitanten Erhöhungen seiner Krankenversicherungsprämien zu besprechen.
+ -  Verwendung von Microsoft 365 Copilot in Excel zur Analyse einer Tabelle mit den prognostizierten Einnahmen für Marketingkampagnen im 1. Quartal und anschließendes Hinzufügen neuer Berechnungen und Diagramme zur Visualisierung der Daten.
+ -  Verwendung von Microsoft 365 Copilot in Word zur Erstellung eines Marketingkampagnenberichts auf der Grundlage der Tabelle zur Marketingkampagne des Unternehmens für das 1. Quartal.
+ -  Verwendung von Microsoft 365 Copilot in Word zur Zusammenfassung der Finanzergebnisse eines Unternehmens für die letzten fünf Jahre.

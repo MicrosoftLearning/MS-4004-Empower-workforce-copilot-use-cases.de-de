@@ -1,20 +1,20 @@
 
-Einen technischen Bericht mit Copilot in Word aktualisieren
+Aktualisieren eines technischen Berichts mit Microsoft 365 Copilot in Word
 ---
-Copilot in Word ist ein KI-basierter Schreibassistent, der IT-Experten dabei helfen kann, Dokumente effizienter zu erstellen. Wenn Sie ein neues Dokument erstellen oder an einem vorhandenen Dokument arbeiten, kann Copilot Ihnen auf verschiedene Arten helfen.
+Microsoft 365 Copilot in Word ist ein KI-basierter Schreibassistent, der IT-Fachleuten dabei helfen kann, Dokumente effizienter zu erstellen. Wenn Sie ein neues Dokument erstellen oder an einem vorhandenen Dokument arbeiten, kann Copilot Ihnen auf verschiedene Arten helfen.
 
  -  In einem neuen, leeren Dokument oder wenn Sie einem vorhandenen Dokument Inhalte hinzufügen möchten, können Sie Copilot mitteilen, was Sie schreiben möchten, und die Inhalte werden entsprechend generiert. Beispielsweise könnten Sie Copilot anweisen: "Schreiben Sie einen Essay über die Vorteile von Cloud Computing" oder "Erstellen Sie einen Absatz über die Bedeutung der Cybersicherheit". Wenn Sie möchten, können Sie bis zu drei Ihrer vorhandenen Dateien als Eingaben einbeziehen, auf denen der von Copilot entworfenen Inhalt basieren soll. Oder Copilot kann den neuen Inhalt auf öffentlichen Webdaten basieren.
  -  In einem Dokument mit vorhandenen Inhalten kann Copilot Ihnen helfen, den Inhalt zu transformieren. Das Tool kann ausgewählte Inhalte neu schreiben oder sogar ausgewählte Inhalte in eine Tabelle umwandeln.
 
-Insgesamt kann Copilot in Word IT-Experten beim Erstellen von Dokumenten Zeit und Mühe sparen. Das Tool kann Ihnen helfen, Inhalte zu generieren, Text neu zu schreiben und hilfreiche Vorschläge bereitstellen. Mit seiner KI-basierten Schreibunterstützung kann Copilot Ihnen helfen, Dokumente effizienter und effektiver zu erstellen.
+Insgesamt kann Microsoft 365 Copilot in Word IT-Fachleuten beim Erstellen von Dokumenten Zeit und Mühe sparen. Das Tool kann Ihnen helfen, Inhalte zu generieren, Texte neu zu schreiben und hilfreiche Vorschläge bereitstellen. Mit seiner KI-gesteuerten Schreibunterstützung kann Copilot Ihnen helfen, Dokumente effizienter und effektiver zu erstellen.
 
-In dieser Übung verwenden Sie Copilot in Word, um ein vorhandenes Dokument zu aktualisieren. Sie leiten Copilot an, neuen Text hinzuzufügen, vorhandenen Text neu zu schreiben und Text in eine Tabelle umzuwandeln.
+In dieser Übung verwenden Sie Microsoft 365 Copilot in Word, um ein vorhandenes Dokument zu aktualisieren. Sie leiten Copilot an, neuen Text hinzuzufügen, vorhandenen Text neu zu schreiben und Text in eine Tabelle umzuwandeln.
 
 ### Übung
 
 Fabrikam ist daran interessiert, ein virtuelles privates Netzwerk (VPN) in seinem Unternehmensnetzwerk zu implementieren. Zu diesem Zweck beauftragte das Unternehmen Trey Research, eines der erfolgreichsten IT-Beratungsunternehmen des Landes, mit der Unterstützung bei der Implementierung. Um das Projekt in Betrieb zu nehmen, haben Mitglieder der Network Consulting-Gruppe von Trey Research einen Bericht für die IT-Mitarbeiter von Fabrikam erstellt, der einen Überblick über VPNs bietet. Der Zweck des Berichts besteht darin, das Fabrikam-Projektteam über VPNs zu informieren, bevor Sie mit der Implementierung beginnen.
 
-Als leitender Berater für Trey Research sind Sie für die Verwaltung des Fabrikam-Projekts zuständig. Es ist Ihre Aufgabe, Fabrikam dieses Dokument vorzulegen und im Bezug auf die Besonderheiten der VPN-Implementierung auf den neusten Stand zu bringen. Nachdem Sie den Bericht überprüft haben, haben Sie jedoch beschlossen, dass Sie weitere Änderungen daran vornehmen möchten. Obwohl die vorläufige Version Ihres Teams in Ordnung war, hatten Sie das Gefühl, dass ein paar wichtige Informationen fehlten, und Sie möchten Teile davon neu formatieren, um sie für Fabrikam leichter verständlich zu machen. Sie planen, Copilot in Word zu verwenden, um Sie dabei zu unterstützen. Gehen Sie dafür wie folgt vor:
+Als leitender Berater für Trey Research sind Sie für die Verwaltung des Fabrikam-Projekts zuständig. Es ist Ihre Aufgabe, Fabrikam dieses Dokument vorzulegen und im Bezug auf die Besonderheiten der VPN-Implementierung auf den neusten Stand zu bringen. Nachdem Sie den Bericht überprüft haben, haben Sie jedoch beschlossen, dass Sie weitere Änderungen daran vornehmen möchten. Obwohl die vorläufige Version Ihres Teams in Ordnung war, hatten Sie das Gefühl, dass ein paar wichtige Informationen fehlten, und Sie möchten Teile davon neu formatieren, um sie für Fabrikam leichter verständlich zu machen. Sie planen, Microsoft 365 Copilot in Word zu verwenden, um Sie dabei zu unterstützen. Gehen Sie dafür wie folgt vor:
 
 1.  Wählen Sie den folgenden Link aus, um eine Kopie des Berichts [Trey Research - VPN Technical Overview](https://go.microsoft.com/fwlink/?linkid=2269129) herunterzuladen.
 2.  Nachdem der Download abgeschlossen ist, verschieben Sie die Datei aus Ihrem Ordner **Downloads** in einen Ordner in Ihrem OneDrive-Konto.

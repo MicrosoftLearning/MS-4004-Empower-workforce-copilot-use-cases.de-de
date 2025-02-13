@@ -1,19 +1,19 @@
 
-# Erstellen einer Folienpräsentation mit Copilot in PowerPoint
+# Erstellen einer Folienpräsentation mit Microsoft 365 Copilot in PowerPoint
 ---
 Die Beherrschung von Copilot für PowerPoint ist eine strategische Fähigkeit für leitende Angestellte und Führungskräfte, die die Wirkung ihrer Präsentationen erhöhen möchten. Als Führungskraft ist eine effektive Kommunikation durch überzeugende Foliendecks von größter Bedeutung. Copilot für PowerPoint ist ein intelligenter Assistent, der Ihnen bei der Erstellung Ihrer Präsentationen in Echtzeit Vorschläge und Verbesserungen anbietet. Dieses Tool beschleunigt nicht nur den Erstellungsprozess, sondern stellt auch sicher, dass die Inhalte ansprechend, klar und ansprechend für die beabsichtigte Zielgruppe sind.
 
 Wenn Sie Copilot für PowerPoint beherrschen, verschaffen Sie sich einen Wettbewerbsvorteil, indem Sie Ihre Botschaften mühelos verfeinern, die visuelle Attraktivität verbessern und einen professionellen Standard aufrechterhalten. Diese Fähigkeit spart nicht nur Zeit, sondern versetzt Sie auch in die Lage, Präsentationen zu halten, die einen bleibenden Eindruck hinterlassen, eine effektive Kommunikation fördern und den Einfluss von Führungskräften verstärken.
 
-Mit Copilot in PowerPoint können Sie eine Präsentation aus einem vorhandenen Word-Dokument erstellen. Wenn Sie Copilot in PowerPoint den Link zu Ihrem Word-Dokument bereitstellen, kann er Folien generieren, Layouts anwenden und ein Design für Sie auswählen.
+Mit Microsoft 365 Copilot in PowerPoint können Sie eine Präsentation aus einem vorhandenen Word-Dokument erstellen. Wenn Sie Microsoft 365 Copilot in PowerPoint den Link zu Ihrem Word-Dokument bereitstellen, kann es Folien generieren, Layouts anwenden und ein Design für Sie auswählen.
 
 ### Übung
 
 Als CTO Ihres Unternehmens treffen Sie sich nächste Woche mit den anderen Führungskräften Ihrer Organisation, um den Stand der digitalen Transformation in Ihrem Unternehmen zu präsentieren. Ihr Assistent bzw. ihre Assistentin lieferte Ihnen eine Zusammenfassung des Fortschritts und der Auswirkungen, die das Projekt bisher hatte.
 
-In der vorherigen Übung haben Sie Copilot in Word verwendet, um Ihre Rede auf der Grundlage der Informationen aus dem Fortschrittsbericht zu schreiben. In dieser Übung planen Sie, Copilot in PowerPoint zu verwenden, um eine Folienpräsentation basierend auf Ihrer Rede zu erstellen. Dazu müssen Sie zunächst den Link zu der Datei **Digital Transformation Speech.docx** kopieren, die Sie in der vorherigen Übung erstellt haben.
+In der vorherigen Übung haben Sie Microsoft 365 Copilot in Word verwendet, um Ihre Rede auf der Grundlage der Informationen aus dem Fortschrittsbericht zu schreiben. In dieser Übung planen Sie, Microsoft 365 Copilot in PowerPoint zu verwenden, um eine Folienpräsentation basierend auf Ihrer Rede zu erstellen. Dazu müssen Sie zunächst den Link zu der Datei **Digital Transformation Speech.docx** kopieren, die Sie in der vorherigen Übung erstellt haben.
 
-In der vorherigen Übung haben Sie die Zusammenfassung in Copilot aufgerufen, indem Sie die Datei aus der Liste der zuletzt verwendeten Dateien (MRU) aufgerufen haben. In dieser Übung wird ein anderer Weg des Zugriffs auf eine Datei verwendet. Anstatt die „Zuletzt verwendet“-Liste zu verwenden, greifen Sie auf die Rede zu, indem Sie den Dateipfad über die Option **Freigeben** in Word zu Copilot kopieren. Führen Sie die folgenden Schritte aus, damit Copilot in PowerPoint einen Entwurf Ihrer Präsentation erstellen kann:
+In der vorherigen Übung haben Sie die Zusammenfassung in Copilot aufgerufen, indem Sie die Datei aus der Liste der zuletzt verwendeten Dateien (MRU) aufgerufen haben. In dieser Übung wird ein anderer Weg des Zugriffs auf eine Datei verwendet. Anstatt die „Zuletzt verwendet“-Liste zu verwenden, greifen Sie auf die Rede zu, indem Sie den Dateipfad über die Option **Freigeben** in Word zu Copilot kopieren. Führen Sie die folgenden Schritte aus, damit Microsoft 365 Copilot in PowerPoint einen Entwurf Ihrer Präsentation erstellen kann:
 
 1.  Wenn Sie eine Microsoft 365-Registerkarte in Ihrem Edge-Browser geöffnet haben, wählen Sie sie jetzt aus. Andernfalls öffnen Sie eine neue Registerkarte, und geben Sie die folgende URL ein: **https://www.office.com**.
 
@@ -44,7 +44,7 @@ In der vorherigen Übung haben Sie die Zusammenfassung in Copilot aufgerufen, in
     
     Im Eingabeaufforderungsfeld gibt Copilot automatisch in **Präsentation erstellen aus Datei/** aus. Platzieren Sie den Cursor nach dem Schrägstrich, und drücken Sie **STRG+V**, um den Link zu diesem Dokument in die Eingabeaufforderung einzufügen.
     
-    ![Screenshot des Felds „Copilot in PowerPoint-Eingabeaufforderung“ mit der Eingabeaufforderung „Präsentation erstellen“ und dem Link zur Datei.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
+    ![Screenshot, der den Microsoft 365 Copilot im Prompt-Feld von PowerPoint mit dem Prompt „Präsentation aus Datei erstellen“ und dem Link zur Datei zeigt.](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
     
 12. Wählen Sie das Symbol **Senden** aus.
 
@@ -64,6 +64,6 @@ In der vorherigen Übung haben Sie die Zusammenfassung in Copilot aufgerufen, in
     
     **Fügen Sie nach Folie 1 eine neue Folie hinzu. Diese Folie sollte ein Bild eines Berggipfels in den Alpen haben. Fügen Sie am unteren Rand der Folie ein Textfeld hinzu, das Folgendes besagt: Fabrikams Firmenmotto - „Wir überwinden jedes Hindernis.“ Fügen Sie dieser neuen Folie Sprechernotizen hinzu, die davon handeln, dass Fabrikam fleißig arbeitet, um jede Kundenanfrage zu erfüllen, und niemals ein Hindernis zwischen sich und dem Erfolg stehen lässt**.
 
-18. Überprüfen Sie die neue Folie, die erstellt wurde. Wie erfolgreich war Copilot bei der Erstellung dieser Folie?
+18. Überprüfen Sie die neue Folie, die erstellt wurde. Wie erfolgreich war Microsoft 365 Copilot bei der Erstellung dieser Folie?
 
 19. Da die verbleibenden Übungen in diesem Modul die Präsentation nicht verwenden, können Sie diese entweder verwerfen oder speichern, wenn sie für eine spätere Verwendung aufbewahrt werden soll.
