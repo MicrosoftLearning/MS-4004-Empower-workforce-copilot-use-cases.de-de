@@ -1,21 +1,21 @@
 
-# Vergleichen Sie Lieferantenverträge mit Copilot in Word
+# Vergleichen von Lieferantenvereinbarungen mit Microsoft 365 Copilot in Word
 ---
-Microsoft Copilot in Word ist ein KI-Assistent, der Vertriebsmitarbeiterinnen und -mitarbeitern helfen kann, effizienter und effektiver zu arbeiten. Mit Copilot in Word können Vertriebsmitarbeiterinnen und -mitarbeiter mühelos Dokumente erstellen, bearbeiten und zusammenfassen. Es kann ihnen auch helfen, Kundeninteraktionen zu personalisieren und ihre Arbeitsabläufe mit KI-Unterstützung zu optimieren.
+Microsoft 365 Copilot in Word ist ein KI-Assistent, der Vertriebsmitarbeiterinnen und -mitarbeitern helfen kann, effizienter und effektiver zu arbeiten. Mit Microsoft 365 Copilot in Word können Vertriebsmitarbeiterinnen und -mitarbeiter mühelos Dokumente erstellen, bearbeiten und zusammenfassen. Es kann ihnen auch helfen, Kundeninteraktionen zu personalisieren und ihre Arbeitsabläufe mit KI-Unterstützung zu optimieren.
 
-Copilot in Word kann Vertriebsmitarbeiterinnen und -mitarbeiter dabei unterstützen, enge Beziehungen zu ihren Kundinnen und Kunden aufzubauen, Maßnahmen auf der Grundlage von Erkenntnissen zu ergreifen und Geschäfte schneller abzuschließen. Es kann Vertriebsmitarbeiterinnen und -mitarbeitern auch dabei helfen, Text in Tabellen umzuwandeln oder Vorschläge zu machen, wie Inhalte umgeschrieben werden können. Copilot in Word kann bestimmte Informationen aus anderen Dokumenten in Ihren Inhalt einbringen, Zusammenfassungen erstellen, Fragen zu Ihrem Dokument stellen und sogar Ideen zu bestimmten Themen liefern.
+Microsoft 365 Copilot in Word kann Vertriebsmitarbeiterinnen und -mitarbeiter dabei unterstützen, enge Beziehungen zu ihren Kundinnen und Kunden aufzubauen, Maßnahmen auf der Grundlage von Erkenntnissen zu ergreifen und Geschäfte schneller abzuschließen. Es kann Vertriebsmitarbeiterinnen und -mitarbeitern auch dabei helfen, Text in Tabellen umzuwandeln oder Vorschläge zu machen, wie Inhalte umgeschrieben werden können. Microsoft 365 Copilot in Word kann bestimmte Informationen aus anderen Dokumenten in Ihren Inhalt einbringen, Zusammenfassungen erstellen, Fragen zu Ihrem Dokument stellen und sogar Ideen zu bestimmten Themen liefern.
 
-In dieser Übung stellen Sie Copilot in Word drei Dokumente zu Lieferantenvereinbarungen zur Verfügung. Dann bitten Sie das Programm, einen Bericht zu erstellen, der die mit jedem Lieferanten ausgehandelten Bedingungen vergleicht. Sie fordern Copilot auch auf, Empfehlungen für die Neuverhandlung der einzelnen Vereinbarungen zu geben.
+In dieser Übung stellen Sie Microsoft 365 Copilot in Word drei Dokumente zu Lieferantenvereinbarungen zur Verfügung. Dann bitten Sie das Programm, einen Bericht zu erstellen, der die mit jedem Lieferanten ausgehandelten Bedingungen vergleicht. Sie fordern Copilot auch auf, Empfehlungen für die Neuverhandlung der einzelnen Vereinbarungen zu geben.
 
 Beachten Sie bei dieser Übung, wie einfach es ist, Copilot eine neue Version des Berichts erstellen zu lassen. Wenn Sie mit einer Version nicht zufrieden sind, klicken Sie einfach auf die Schaltfläche **Neu generieren**, damit Copilot eine neue Version des Dokuments erstellt – und das alles in Sekundenschnelle.
 
 ### Übung
 
-Sie sind der neue Verkaufsleiter bzw. die neue Verkaufsleiterin von Northwind Traders, einem Anbieter verschiedener Lebensmittel und Getränke. Sie haben Bedenken wegen der Liefervereinbarungen, die derzeit mit einigen der wichtigsten Kundinnen und Kunden von Northwind bestehen. Ihre Vorgängerin bzw. Ihr Vorgänger hat diese Vereinbarungen ausgehandelt, so dass Sie mit den Bedingungen, die zuvor mit diesen Kundinnen und Kunden vereinbart wurden, nicht vertraut sind. Sie planen, Copilot in Word zu verwenden, um die Lieferantenvereinbarungen zu vergleichen und einen Bericht zu erstellen, der die Ergebnisse vergleicht und Empfehlungen für zukünftige Vereinbarungen enthält.
+Sie sind der neue Verkaufsleiter bzw. die neue Verkaufsleiterin von Northwind Traders, einem Anbieter verschiedener Lebensmittel und Getränke. Sie haben Bedenken wegen der Liefervereinbarungen, die derzeit mit einigen der wichtigsten Kundinnen und Kunden von Northwind bestehen. Ihre Vorgängerin bzw. Ihr Vorgänger hat diese Vereinbarungen ausgehandelt, so dass Sie mit den Bedingungen, die zuvor mit diesen Kundinnen und Kunden vereinbart wurden, nicht vertraut sind. Sie planen, Microsoft 365 Copilot in Word zu verwenden, um die Lieferantenvereinbarungen zu vergleichen und einen Bericht zu erstellen, der die Ergebnisse vergleicht und Empfehlungen für zukünftige Vereinbarungen enthält.
 
 Um auf die Lieferantenvereinbarungen zuzugreifen, müssen Sie die Dateien zunächst herunterladen und dann in Ihr OneDrive-Konto kopieren. Copilot kann nur auf Dateien in einem OneDrive-Konto zugreifen. In dieser Übung greifen Sie auf die Dateien in Copilot zu, indem Sie sie in der Liste der zuletzt verwendeten Dateien auswählen. Damit die Dateien in der Liste der zuletzt verwendeten Dateien angezeigt werden, müssen Sie die einzelnen Dateien öffnen und wieder schließen.
 
-Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Copilot in Word zu generieren:
+Führen Sie die folgenden Schritte aus, um Ihre Rede mithilfe von Microsoft 365 Copilot in Word zu generieren:
 
 1.  Wählen Sie die folgenden Links, um die drei Lieferantenvereinbarungen herunterzuladen:
      -  [Contoso-Lieferantenvereinbarung](https://go.microsoft.com/fwlink/?linkid=2268925)
